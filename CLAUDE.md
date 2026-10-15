@@ -1,9 +1,9 @@
-# ecologyweb (Hide Doi personal site)
+# ecologyweb (Hideyuki Doi personal site)
 
 Personal research site of Hideyuki (Hide) Doi, Biosphere Informatics Lab., Graduate School of
 Informatics, Kyoto University. Published with GitHub Pages at https://hideyuki-doi.github.io/
-(repo `hideyuki-doi/hideyuki-doi.github.io`). It is a personal site ("Hide Doi"), not a lab site:
-do not call it "Hide Doi Lab" or 土居研究室.
+(repo `hideyuki-doi/hideyuki-doi.github.io`). It is a personal site titled "Hideyuki Doi" ("Hide" is a nickname, kept only as a search alias in the JSON-LD), not a lab site:
+do not call it "Hideyuki Doi Lab", "Hide Doi Lab" or 土居研究室.
 
 ## Structure
 - `src/index.html` – all page content (Home / Research / 研究室紹介 / Members / Publications / CV), single-page app with hash routing.

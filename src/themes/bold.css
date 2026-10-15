@@ -18,6 +18,10 @@
 .brand-sub { font-size: 1rem; margin-top: .35rem; }
 .site-head { padding-block: .9rem; }
 @media (max-width: 900px) { .brand-logo { height: 68px; } .brand-text { font-size: 1.6rem; } .brand-sub { font-size: .82rem; } }
+/* keep "Hideyuki Doi" on one line; the subtitle may wrap */
+.brand-text { white-space: nowrap; }
+.brand-sub { white-space: normal; }
+@media (max-width: 480px) { .brand-logo { height: 56px; } .brand-text { font-size: 1.4rem; } }
 nav a[href="#contact"] { background: var(--accent); color: var(--on-accent); border-radius: 999px; padding-inline: 1rem; }
 nav a[href="#contact"]:hover { color: var(--on-accent); filter: brightness(1.08); }
 #home { padding: 0; }
