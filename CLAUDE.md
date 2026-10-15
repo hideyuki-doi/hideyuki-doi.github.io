@@ -14,7 +14,7 @@ do not call it "Hideyuki Doi Lab", "Hide Doi Lab" or 土居研究室.
   `html` holds the citation: `<strong>Hideyuki Doi</strong>` bold, `<em>` for journals/species, `<sup>*</sup>` corresponding author, `†` equal contribution; add a matching note in `notes`.
   Titles in sentence case (only first word and proper nouns capitalised). DOIs shown as https://doi.org/… links.
 - `data/add_dois.txt` – DOIs to add on the next build; `data/exclude_dois.txt` – DOIs never to add. No preprints.
-- `assets/img/` – images. Lab photos `lab-1..4` are imported from the old Jimdo site by the workflow.
+- `assets/img/` – images. Lab photos `lab-1..4` (imported from the old Jimdo site) are used only as header circles on Members / Publications / CV; the 研究室紹介 page has no photo gallery.
 - `scripts/build.py` – builds `_site/`; `scripts/update_publications.py` – adds new papers from ORCID/Crossref; `scripts/check_links.py` – checks every DOI and image.
 
 ## Commands
