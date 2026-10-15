@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import base64
 import datetime as dt
+import hashlib
 import html
 import json
 import re
@@ -38,7 +39,20 @@ def img_src(name: str, remote: bool) -> str:
     if local.exists() and PREVIEW:
         mime = "image/png" if fname.endswith(".png") else "image/jpeg"
         return f"data:{mime};base64," + base64.b64encode(local.read_bytes()).decode()
+    if local.exists() and name in ("favicon", "touch-icon"):
+        # ブラウザはアイコンを長く覚えているので、画像が変わったら URL も変える
+        return f"assets/img/{fname}?v=" + hashlib.md5(local.read_bytes()).hexdigest()[:8]
     return f"assets/img/{fname}" if (local.exists() and (not remote or not urls)) else urls[-1]
+
+
+def write_favicon_ico(png: Path, out: Path) -> None:
+    """PNG を1枚だけ入れた favicon.ico を作る（/favicon.ico を直接見に来るブラウザや検索エンジン向け）。"""
+    data = png.read_bytes()
+    w, h = int.from_bytes(data[16:20], "big"), int.from_bytes(data[20:24], "big")
+    header = (0).to_bytes(2, "little") + (1).to_bytes(2, "little") + (1).to_bytes(2, "little")
+    entry = bytes([w % 256, h % 256, 0, 0]) + (1).to_bytes(2, "little") + (32).to_bytes(2, "little") \
+        + len(data).to_bytes(4, "little") + (6 + 16).to_bytes(4, "little")
+    out.write_bytes(header + entry + data)
 
 
 def doi_link(doi: str) -> str:
@@ -194,6 +208,9 @@ def main() -> None:
     OUT.mkdir()
     (OUT / "index.html").write_text(out, encoding="utf-8")
     (OUT / ".nojekyll").write_text("")
+    fav = ROOT / "assets" / "img" / IMAGES["favicon"][0]
+    if fav.exists():
+        write_favicon_ico(fav, OUT / "favicon.ico")
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {site_url}sitemap.xml\n")
     (OUT / "sitemap.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n'
