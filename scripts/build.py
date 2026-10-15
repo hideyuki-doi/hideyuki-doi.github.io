@@ -129,6 +129,11 @@ def main() -> None:
     theme = args[args.index("--theme") + 1] if "--theme" in args else cfg.get("theme", "bold")
     if theme not in THEMES:
         sys.exit(f"Unknown theme {theme!r}; choose from {', '.join(THEMES)}")
+    # 公開 URL（検索エンジン向けの canonical・サイトマップ用）。独自ドメインなら CNAME を優先
+    if (ROOT / "CNAME").exists():
+        site_url = "https://" + (ROOT / "CNAME").read_text(encoding="utf-8").strip() + "/"
+    else:
+        site_url = cfg.get("url", "https://hideyuki-doi.github.io/").rstrip("/") + "/"
     db = json.loads((ROOT / "data" / "publications.json").read_text(encoding="utf-8"))
     pubs = db["publications"]
     arts = [p for p in pubs if p["type"] == "article"]
@@ -166,6 +171,7 @@ def main() -> None:
         "YEAR_OPTIONS": "".join(f'<option value="pub-{y}">{y}</option>' for y in sorted(counts, reverse=True))
                         + '<option value="pub-japanese">Papers in Japanese</option>'
                         + '<option value="pub-books">Books</option>',
+        "SITE_URL": site_url,
         "UPDATED": dt.date.today().strftime("%-d %B %Y"),
         "YEAR": str(dt.date.today().year),
     }
@@ -188,6 +194,12 @@ def main() -> None:
     OUT.mkdir()
     (OUT / "index.html").write_text(out, encoding="utf-8")
     (OUT / ".nojekyll").write_text("")
+    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {site_url}sitemap.xml\n")
+    (OUT / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"  <url><loc>{site_url}</loc><lastmod>{dt.date.today().isoformat()}</lastmod></url>\n"
+        "</urlset>\n", encoding="utf-8")
     if (ROOT / "assets").exists():
         shutil.copytree(ROOT / "assets", OUT / "assets")
     if (ROOT / "CNAME").exists():
