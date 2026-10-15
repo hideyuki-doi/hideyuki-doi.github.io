@@ -37,7 +37,7 @@ nav a[href="#contact"]:hover { color: var(--on-accent); filter: brightness(1.08)
 .hero-fullname { margin: .6rem 0 0; font: 500 1.05rem/1.4 var(--body); color: #bfe6e4; letter-spacing: .02em; }
 .hero-fullname span { margin-left: .6rem; letter-spacing: .2em; }
 .hero-bio { margin: 0 0 .75rem; color: #f0f8f8; max-width: 52ch; line-height: 1.75; }
-.hero-bio-ja { margin: 0 0 1.75rem; color: #cfeae8; max-width: 28em; font-size: 1.1em; line-height: 1.9; }
+.hero-bio-ja { margin: 0 0 1.75rem; color: #cfeae8; max-width: 28em; font-size: 1.1em; line-height: 1.6; }
 .hero-links { list-style: none; margin: .5rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; font-size: .92rem; }
 .hero-links a { color: #bfe6e4; }
 .hero-links a:hover { color: #ffffff; }
