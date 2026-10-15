@@ -1,0 +1,64 @@
+name: Update publications & deploy site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 21 * * 0"   # 毎週月曜 6:00 (JST)
+  workflow_dispatch:        # Actions 画面の「Run workflow」で手動実行
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Import photos and logo from Jimdo (skips files already saved)
+        run: python scripts/import_jimdo_images.py
+
+      - name: Add new publications from ORCID / Crossref
+        run: python scripts/update_publications.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data assets
+          if ! git diff --cached --quiet; then
+            git commit -m "Update publications and images"
+            git push
+          fi
+
+      - name: Build site
+        run: python scripts/build.py
+
+      - name: Check every DOI and photo (report in the run's Summary)
+        run: python scripts/check_links.py
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

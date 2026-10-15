@@ -1,0 +1,2103 @@
+{
+ "orcid": "0000-0002-2701-3982",
+ "publications": [
+  {
+   "id": "217",
+   "year": 2026,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Masaki Miya, Hitoshi Araki, Akihide Kasai, Reiji Masuda, Toshifumi Minamoto, Satoquo Seino, Hiroki Yamanaka, Tetsuya Sado, Hisashi Yamakawa, Hyojin Ahn, Mitsuhiro Aizu-Hirano, Seiji Arakaki, Ryutaro Goto, Keisuke Koizumi, Nobuchika Hara, Yasuhisa Henmi, Masakazu Hori, Midori Iida, Tadashi Kajita, Yumi Kobayashi, Manabu Kume, Shin-ichiro Oka, Shunsuke Matsuoka, Yuki Minegishi, Mariko Nagano, Teruhiko Takahara, Hiroshi Takahashi, Sayaka Takahashi, Koji Takayama, Kunihiro Yamauchi, and Michio Kondoh (2026) High-frequency eDNA metabarcoding survey data of coastal fish across the Japanese Archipelago. <em>Scientific Data</em> online available.",
+   "notes": [
+    "Data: <a href=\"https://doi.org/10.5281/zenodo.22092638\">https://doi.org/10.5281/zenodo.22092638</a>"
+   ],
+   "source": "manual",
+   "added": "2026-10-15"
+  },
+  {
+   "id": "216",
+   "year": 2026,
+   "type": "article",
+   "html": "Alexander K. Yurlov, Natalia I. Yurlova, Maria Yu. Garyushkina, Marina A. Selivanova, and <strong>Hideyuki Doi</strong> (2026) Egg and chick size in the nests of common gulls in Lake Chany, West Siberia, Russia from 1993 to 2011 (Data Article). <em>Ecological Research</em> 41(5).",
+   "source": "researchmap-check",
+   "doi": "10.1111/1440-1703.70106"
+  },
+  {
+   "id": "215",
+   "year": 2026,
+   "type": "article",
+   "html": "Hiroto Fujita, Teruhiko Takahara<sup>*</sup>, <strong>Hideyuki Doi</strong>, and Toshifumi Minamoto (2026) Seasonal variation in accuracy of Oki salamander (<em>Hynobius okiensis</em>) abundance and biomass estimation from eDNA. <em>Freshwater Science</em> 45:433-442.",
+   "source": "jimdo",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "doi": "10.1086/742537"
+  },
+  {
+   "id": "214",
+   "year": 2026,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2026) Urban stressors disrupt the phenological clock, unravelling urban ecosystems and services. <em>npj Urban Sustainability</em> online available.",
+   "source": "jimdo",
+   "doi": "10.1038/s42949-026-00406-0"
+  },
+  {
+   "id": "213",
+   "year": 2026,
+   "type": "article",
+   "html": "Yurika Oba, and <strong>Hideyuki Doi</strong> (2026) Macroecological assessment of invasive species impact on Japanese lake fish communities using eDNA metabarcoding. <em>Scientific Reports</em> online available.",
+   "doi": "10.1038/s41598-026-46585-9",
+   "source": "jimdo"
+  },
+  {
+   "id": "212",
+   "year": 2026,
+   "type": "article",
+   "html": "Naoko Hara, <strong>Hideyuki Doi</strong>, Junjiro N. Negishi, Shiro Sagawa, Seiji Sanada, Tomoko Minagawa, Yuichi Kayaba and Izumi Katano (2026) Longitudinal effects of sand-poor tributary inflow on environmental conditions and macroinvertebrate communities within a dam-regulated river. <em>Limnology</em> online available.",
+   "doi": "10.1007/s10201-026-00847-7",
+   "source": "jimdo"
+  },
+  {
+   "id": "211",
+   "year": 2026,
+   "type": "article",
+   "html": "Megumi Tsuji, Izumi Katano and <strong>Hideyuki Doi</strong> (2026) Effects of water flow and sediment on the decay of environmental DNA in a closed-water system. <em>Limnology</em> online available.",
+   "doi": "10.1007/s10201-026-00846-8",
+   "source": "jimdo"
+  },
+  {
+   "id": "210",
+   "year": 2026,
+   "type": "article",
+   "html": "Kai Nakane, Michinobu Kuwae, <strong>Hideyuki Doi</strong>, Mari Ochiai, Tomohiko Isobe, Tatsuya Kunisue, Narumi Tsugeki (2026) Novel attempt to assess marine mammal dynamics over the past 100 years using sedimentary DNA: An example in finless porpoise. <em>Marine Pollution Bulletin</em> 231:119895.",
+   "doi": "10.1016/j.marpolbul.2026.119895",
+   "source": "jimdo"
+  },
+  {
+   "id": "209",
+   "year": 2026,
+   "type": "article",
+   "html": "Maiko Kagami, Shunsuke Matsuoka, Manabu Mochizuki, Kensuke Seto, <strong>Hideyuki Doi</strong>, Chihiro Yoshimura, Tomonori Osugi, Hidetaka Ichiyanagi &amp; Jotaro Urabe (2026) Chytrids are everywhere: diatom-parasitic chytrids dominate pelagic fungal communities across 50 reservoirs. <em>Landscape and Ecological Engineering</em> online available.",
+   "doi": "10.1007/s11355-026-00715-7",
+   "source": "jimdo"
+  },
+  {
+   "id": "208",
+   "year": 2026,
+   "type": "article",
+   "html": "Scott H. Jenkins, <strong>Hideyuki Doi</strong>, Danilo Russo, Kseniia Kravchenko, Christian E. Vincenot (2026) Understanding bat guilds: A systematic review of their development, uses and research implications. <em>Mammal Review</em> 56: e70037.",
+   "doi": "10.1111/mam.70037",
+   "source": "jimdo"
+  },
+  {
+   "id": "207",
+   "year": 2026,
+   "type": "article",
+   "html": "Toshiaki S. Jo and <strong>Hideyuki Doi</strong> (2026) Does allometric scaling improve estimates of population abundance based on environmental DNA? <em>Molecular Ecology</em> 35:e70303.",
+   "doi": "10.1111/mec.70303",
+   "source": "jimdo"
+  },
+  {
+   "id": "206",
+   "year": 2026,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2026) Connecting the herd and the habitat: A plea for an AI-driven framework for integrating livestock and biodiversity data. <em>One Ecosystem</em> 11: e174196.",
+   "doi": "10.3897/oneeco.11.e174196",
+   "source": "jimdo"
+  },
+  {
+   "id": "205",
+   "year": 2026,
+   "type": "article",
+   "html": "Yu Peng, Muchun Zhou, Yaoqing Peng, Weizheng Xie, Zhihui Zhang, Chuanqiao Zhou, Tsuyoshi Kinouchi, <strong>Hideyuki Doi</strong>, and Xiaoguang Xu (2026) Enhancement of lake carbon emission by cyanobacteria-derived organic carbon input: stimulatory effect of co-metabolism on sediment. <em>Water Research</em> 291:125277.",
+   "doi": "10.1016/j.watres.2025.125277",
+   "source": "jimdo"
+  },
+  {
+   "id": "204",
+   "year": 2026,
+   "type": "article",
+   "html": "Chuanqiao Zhou, Qiulin Xu, Ruoyu Jia, Zhihui Zhang, Xiaoguang Xu, Huazu Liu, Wenpeng Zhao, Erhu Du, Guoxiang Wang, <strong>Hideyuki Doi</strong>, Jianjun Wang, Tsuyoshi Kinouchi, Lian Feng (2026) Long-term records reveal temperature-driven nutrient limitation and predict intensified algal blooms in global lakes. <em>Global Change Biology</em> 32:e70719.",
+   "doi": "10.1111/gcb.70719",
+   "source": "jimdo"
+  },
+  {
+   "id": "203",
+   "year": 2026,
+   "type": "article",
+   "html": "Yutaka Osada, Masaki Miya, Hitoshi Araki, <strong>Hideyuki Doi</strong>, Akihide Kasai, Reiji Masuda, Toshifumi Minamoto, Satoquo Seino, Teruhiko Takahara, Satoshi Yamamoto, Hiroki Yamanaka, Mitsuhiro Aizu-Hirano, Keiichi Fukaya, Takehiko Fukuchi, Ryo O. Gotoh, Masakazu Hori, Midori Iida, Tomohito Imaizumi, Tadashi Kajita, Takashi Kanbe, Tanaka Kenta, Yumi Kobayashi, Tomoyuki Komai, Tomohiko Matsuura, Hiroki Mizumoto, Hiroyuki Motomura, Hiroaki Murakami, Shin-ichiro Oka, Tetsuya Sado, Hiroshi Senou, Koichi Shibukawa, Tomoki Sunobe, Hiroshi Takahashi, Koji Takayama, Katsuhiko Tanaka, Hisashi Yamakawa, Satoru Yokoyama, Seokjin Yoon, Michio Kondoh (2026) Large-scale environmental DNA survey reveals niche axes of a regional coastal fish community. <em>Scientific Reports</em> 16, 3276.",
+   "doi": "10.1038/s41598-025-31307-4",
+   "source": "jimdo"
+  },
+  {
+   "id": "202",
+   "year": 2025,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2025) A generative paradigm for environmental science: From prediction to immersive scenarios for participatory stewardship. <em>Research Ideas and Outcomes</em> 11: e177579.",
+   "doi": "10.3897/rio.11.e177579",
+   "source": "jimdo"
+  },
+  {
+   "id": "201",
+   "year": 2025,
+   "type": "article",
+   "html": "Angélica L González, Julian Merder, Karl Andraczek, Ulrich Brose, Michał Filipiak, W Stanley Harpole, Helmut Hillebrand, Michelle C Jackson, Malte Jochum, Shawn J Leroux, Mark P Nessel, Renske E Onstein, Rachel Paseka, George LW Perry, Angie Peace, Amanda Rugenski, Judith Sitters, Erik Sperfeld, Maren Striebel, Eugenia Zandona, Attila Mozsár, Sarah Bluhm, <strong>Hideyuki Doi</strong>, Nico Eisenhauer, Vinicius F Farjalla, James Hood, Pavel Kratina, Catherine Lovelock, Eric K Moody, Melanie E Pollierer, Anton Potapov, Gustavo Q Romero, Jean-Marc Roussel, Stefan Scheu, Nicole Scheunemann, Julia Seeber, Michael Steinwandter, Winda Ika Susanti, Alexei Tiunov, Olivier Dézerald (2025) Nitrogen deposition reveals global patterns in plant and animal stoichiometry. <em>Nature Communications</em> 16, 10977.",
+   "doi": "10.1038/s41467-025-65960-0",
+   "source": "jimdo"
+  },
+  {
+   "id": "200",
+   "year": 2025,
+   "type": "article",
+   "html": "Yurika Oba and <strong>Hideyuki Doi</strong> (2025) Accelerating ecosystem monitoring through computer vision with deep metric learning. <em>Ecological Complexity</em> 62:101124.",
+   "doi": "10.1016/j.ecocom.2025.101124",
+   "source": "jimdo"
+  },
+  {
+   "id": "199",
+   "year": 2025,
+   "type": "article",
+   "html": "Angélica L. González, Karl Andraczek, Ulrich Brose, Michał Filipiak, Michelle Jackson, Malte Jochum, Stan Harpole, Helmut Hillebrand, Shawn J. Leroux, Julian Merder, Mark P. Nessel, Renske E. Onstein, George Perry, Rachel Paseka, Amanda Rugenski, Judith Sitters, Erik Sperfeld, Maren Striebel, Eugenia Zandona, Alice Blanckaert, Sarah L. Bluhm, <strong>Hideyuki Doi</strong>, Nico Eisenhauer, James Hood, Vinicius F. Farjalla, Pavel Kratina, Catherine Lovelock, Eric K. Moody, Attila Mozsár, Liam N. Nash, Melanie M. Pollierer, Anton Potapov, Gustavo Q. Romero, Stefan Scheu, Nicole Scheunemann, Julia Seeber, Michael Steinwandter, Winda Ika Susanti, Alexei Tiunov, Jean-Marc Roussel, Olivier Dézerald (2025) StoichLife: A global database of plant and animal elemental content. <em>Scientific Data</em> 12:569.",
+   "doi": "10.1038/s41597-025-04852-w",
+   "source": "jimdo"
+  },
+  {
+   "id": "198",
+   "year": 2025,
+   "type": "article",
+   "html": "Kitso Kusin, Kaho Ogawa, <strong>Hideyuki Doi</strong>, Takeshi Tokida, Takashi Hirano, Adi Jaya, Masayuki Itoh (2025) Increasing the pH of tropical peat can enhance methane production and methanogenic growth under anoxic conditions. <em>CATENA</em> 250, 108791.",
+   "doi": "10.1016/j.catena.2025.108791",
+   "source": "jimdo"
+  },
+  {
+   "id": "197",
+   "year": 2025,
+   "type": "article",
+   "html": "Teruhiko Takahara, Satoshi Yamagishi, Rina Shimoda, Akihiro Nagata, Masayuki K. Sakata, <strong>Hideyuki Doi</strong>, Toshifumi Minamoto (2025) Seven-year changes in eDNA concentrations of two dominant submerged macrophytes in Lake Shinji: Effects of salinity. <em>Estuarine, Coastal and Shelf Science</em> 315, 109165.",
+   "doi": "10.1016/j.ecss.2025.109165",
+   "source": "jimdo"
+  },
+  {
+   "id": "196",
+   "year": 2025,
+   "type": "article",
+   "html": "Nao Shiozuka, Izumi Katano<sup>*</sup>, <strong>Hideyuki Doi</strong><sup>*</sup>, Masatoshi Nakamura, Tomoyasu Shirako, Shun Nagayama &amp; Hidetaka Ichiyanagi (2024) Seasonal changes in the diurnal behavior of <em>Chimarrogale platycephalus</em> evaluated using environmental DNA. <em>Limnology</em> 26:45-54.",
+   "doi": "10.1007/s10201-024-00760-x",
+   "notes": [
+    "<sup>*</sup>Corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "195",
+   "year": 2024,
+   "type": "article",
+   "html": "Yuki Hatano, Shunsuke Matsuoka, <strong>Hideyuki Doi</strong>, Ryunosuke Tateno, Motohiro Hasegawa, and Takashi Osono (2024) Evaluation of the persistence of <em>Epichloë</em> endophyte and its possible effect on fungal assemblages in dead leaf sheaths. <em>Fungal Biology</em> 128:2325-2332.",
+   "doi": "10.1016/j.funbio.2024.11.008",
+   "source": "jimdo"
+  },
+  {
+   "id": "194",
+   "year": 2024,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> and Tatsuya Saito (2024) Unveiling aquatic organism health through eProteins: A contemporary perspective. <em>Research Ideas and Outcomes</em> 10: e127927.",
+   "doi": "10.3897/rio.10.e127927",
+   "source": "jimdo"
+  },
+  {
+   "id": "193",
+   "year": 2024,
+   "type": "article",
+   "html": "Michinobu Kuwae, Yusuke Yokoyama, Stephen Tims, Michaela Froehlich, Leslie Keith Fifield, Takahiro Aze, Narumi Tsugeki, <strong>Hideyuki Doi</strong>, and Yoshiki Saito (2024) Toward defining the Anthropocene onset using a rapid increase in anthropogenic fingerprints in global geological archives. <em>Proceedings of the National Academy of Sciences of the United States of America</em> 121: e2313098121.",
+   "doi": "10.1073/pnas.2313098121",
+   "source": "jimdo"
+  },
+  {
+   "id": "192",
+   "year": 2024,
+   "type": "article",
+   "html": "Hideyuki Takagi, <strong>Hideyuki Doi</strong><sup>*</sup>, and Tomomichi Nakamura (2024) Classifying animal migration patterns using small-shuffle surrogate and PCA evaluating short-term trends. <em>Behaviour</em> 161: 661–676.",
+   "doi": "10.1163/1568539X-bja10280",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "191",
+   "year": 2024,
+   "type": "article",
+   "html": "Satsuki Tsuji, <strong>Hideyuki Doi</strong>, Yusuke Hibino, Naoki Shibata and Katsutoshi Watanabe (2024) Rapid assessment of invasion front and biological impact of the invasive fish <em>Coreoperca herzi</em> using quantitative eDNA metabarcoding. <em>Biological Invasions</em> 26:3107-3123.",
+   "doi": "10.1007/s10530-024-03364-9",
+   "source": "jimdo"
+  },
+  {
+   "id": "190",
+   "year": 2024,
+   "type": "article",
+   "html": "Ayano Medo, Nobuhito Ohte, <strong>Hideyuki Doi</strong>, Kiattipong Kamdee, Keisuke Koba, Nobuaki Arai, Yasushi Mitsunaga, Manabu Kume, Daichi Kojima, Takashi Nose, Ayako Yokoyama, Thavee Viputhanumas, and Hiromichi Mitamura (2024) Trophic niche partitioning and intraspecific variation in food resource use in the genus <em>Pangasianodon</em> in a reservoir revealed by stable isotope analysis of multiple tissues. <em>Journal of Fish Biology</em> 105:814-824.",
+   "doi": "10.1111/jfb.15842",
+   "source": "jimdo"
+  },
+  {
+   "id": "189",
+   "year": 2024,
+   "type": "article",
+   "html": "Kengo Takemoto, <strong>Hideyuki Doi</strong><sup>*</sup>, Tatsuya Saito, Hiroaki Ui, Tomoko Doei &amp; Hiroshi Doei (2024) Establishment of environmental DNA method for detecting invasive African-clawed frogs in Japan. <em>Limnology</em> 25:119-124.",
+   "doi": "10.1007/s10201-023-00739-0",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "188",
+   "year": 2024,
+   "type": "article",
+   "html": "Yoriko Sugiyama, Shunsuke Matsuoka, Yoshito Shimono, Masayuki Ushio, and <strong>Hideyuki Doi</strong> (2024) Does water fungal environmental DNA assemblage reflect the surrounding terrestrial sporocarp community? <em>Fungal Ecology</em> 67: 101311.",
+   "doi": "10.1016/j.funeco.2023.101311",
+   "source": "jimdo"
+  },
+  {
+   "id": "187",
+   "year": 2024,
+   "type": "article",
+   "html": "Izumi Katano, <strong>Hideyuki Doi</strong>, Junjiro N. Negishi, Tomoko Minagawa, and Yuichi Kayaba (2024) Tributary mitigates river discontinuity by dam depending on the distance from dam to the tributary confluence. <em>River Research and Applications</em> 40:163-176.",
+   "doi": "10.1002/rra.4221",
+   "source": "jimdo"
+  },
+  {
+   "id": "186",
+   "year": 2023,
+   "type": "article",
+   "html": "Hiroki Yamanaka, <strong>Hideyuki Doi</strong>, Hitoshi Araki, Kimiko Uchii, and Toshifumi Minamoto (2023) The eDNA Society International Meeting 2023, “moving from knowledge into practice”. <em>Environmental DNA</em> online available.",
+   "source": "researchmap-check",
+   "doi": "10.1002/edn3.465"
+  },
+  {
+   "id": "185",
+   "year": 2023,
+   "type": "article",
+   "html": "Aki Tanaka, Izumi Katano<sup>*</sup>, <strong>Hideyuki Doi</strong><sup>*</sup>, Mami Iguchi, and Shohei Koike (2023) Applicability of environmental DNA metabarcoding for the hyporheic zone of a stream bed. <em>Environmental DNA</em> 5:1667-1678.",
+   "doi": "10.1002/edn3.484",
+   "notes": [
+    "<sup>*</sup>Corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "184",
+   "year": 2023,
+   "type": "article",
+   "html": "Grayson P. Huston, Mark Louie D. Lopez, Yuanyu Cheng, Leighton King, Lucinda C. Duxbury, Maïlys Picard, Georgia Thomson-Laing, Erika Myler, Caren C. Helbing, Michael T. Kinnison, Jasmine E. Saros, Irene Gregory-Eaves, Marie-Eve Monchamp, Susanna A. Wood, Linda Armbrecht, Gentile Francesco Ficetola, Lenka Kurte, Jordan Von Eggers, Janice Brahney, Genevieve Parent, Masayuki K. Sakata, <strong>Hideyuki Doi</strong>, and Eric Capo (2023) Detection of fish sedimentary DNA in aquatic systems: A review of methodological challenges and future opportunities. <em>Environmental DNA</em> 5:1449-1472.",
+   "doi": "10.1002/edn3.467",
+   "source": "jimdo"
+  },
+  {
+   "id": "183",
+   "year": 2023,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> and Ryan P. Kelly (2023) Ethical considerations for human sequences in environmental DNA. <em>Nature Ecology and Evolution</em> 7:1334-1335.",
+   "doi": "10.1038/s41559-023-02124-7",
+   "source": "jimdo"
+  },
+  {
+   "id": "182",
+   "year": 2023,
+   "type": "article",
+   "html": "Alexander K. Yurlov, Natalia I. Yurlova<sup>*</sup>, Maria Yu. Garyushkina, Marina A. Selivanova, and <strong>Hideyuki Doi</strong><sup>*</sup> (2023) Long-term series of measurements of eggs and chicks of Caspian terns (<em>Hydroprogne caspia</em>) breeding in Lake Chany, Western Siberia, Russia, during 1985 and 2011. <em>Ecological Research</em> 38:708-713.",
+   "doi": "10.1111/1440-1703.12407",
+   "notes": [
+    "<sup>*</sup>Co-corresponding authors (Alexander K. Yurlov deceased)."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "181",
+   "year": 2023,
+   "type": "article",
+   "html": "Mariko Nagano, Masaki Sakamoto, Kwang-Hyeon Chang, and <strong>Hideyuki Doi</strong> (2023) Predator-induced plasticity in relation to prey body size: a meta-analysis of <em>Daphnia</em> experiments. <em>Freshwater Biology</em> 68:1293-1302.",
+   "doi": "10.1111/fwb.14108",
+   "source": "jimdo"
+  },
+  {
+   "id": "180",
+   "year": 2023,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong><sup>*</sup>†, Shunsuke Matsuoka†, Shin-ichiro S. Matsuzaki†, Mariko Nagano, Hirotoshi Sato, Hiroki Yamanaka, Saeko Matsuhashi, Satoshi Yamamoto, Toshifumi Minamoto, Hitoshi Araki, Kousuke Ikeda, Atsuko Kato, Kouichi Kumei, Nobutaka Maki, Takashi Mitsuzuka, Teruhiko Takahara, Kimihito Toki, Natsuki Ueda, Takeshi Watanabe, Kanji Yamazoe, and Masaki Miya (2023) Species traits and ecosystem characteristics affect species detection by eDNA metabarcoding in lake fish communities. <em>Freshwater Biology</em> 68:1346-1358.",
+   "doi": "10.1111/fwb.14107",
+   "notes": [
+    "<sup>*</sup>Corresponding author, †These authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "179",
+   "year": 2023,
+   "type": "article",
+   "html": "Takashi Fukuzawa<sup>*</sup>, Hiromi Shirakura, Naofumi Nishizawa, Hisao Nagata, Yuichi Kameda, and <strong>Hideyuki Doi</strong><sup>*</sup> (2023) Environmental DNA extraction method from water for a high and consistent DNA yield. <em>Environmental DNA</em> 5: 627-633.",
+   "doi": "10.1002/edn3.406",
+   "notes": [
+    "<sup>*</sup>Co-corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "178",
+   "year": 2023,
+   "type": "article",
+   "html": "Kai Nakane, Xin Liu, <strong>Hideyuki Doi</strong>, Gaël Dur, Michinobu Kuwae, Syuhei Ban, and Narumi Tsugeki (2023) Sedimentary DNA can reveal past pelagic copepod population dynamics. <em>Freshwater Biology</em> 68: 1917-1928.",
+   "doi": "10.1111/fwb.14096",
+   "source": "jimdo"
+  },
+  {
+   "id": "177",
+   "year": 2023,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong><sup>*</sup>, Yuko Ishida, and Yasuhiro Takemon (2023) Canopy cover influences food resources for stream grazers and filter feeders on a reach scale. <em>Hydrobiologia</em> 851:299-311.",
+   "doi": "10.1007/s10750-023-05213-7",
+   "source": "jimdo",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ]
+  },
+  {
+   "id": "176",
+   "year": 2023,
+   "type": "article",
+   "html": "Rio Souma<sup>*</sup>, Izumi Katano<sup>*</sup>, <strong>Hideyuki Doi</strong><sup>*</sup>, Teruhiko Takahara, and Toshifumi Minamoto (2023) Comparing environmental DNA with whole pond survey to estimate the total biomass of fish species in ponds. <em>Freshwater Biology</em> 68:727-736.",
+   "doi": "10.1111/fwb.14059",
+   "notes": [
+    "<sup>*</sup>Co-corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "175",
+   "year": 2023,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong><sup>*</sup> and Keigo Nakamura<sup>*</sup> (2023) Dominant barriers and the solutions to the social application of environmental DNA. <em>Landscape and Ecological Engineering</em> 19: 305–312.",
+   "doi": "10.1007/s11355-023-00549-7",
+   "notes": [
+    "<sup>*</sup>Co-corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "174",
+   "year": 2023,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong><sup>*</sup> and Keigo Nakamura<sup>*</sup> (2023) Special issue: Environmental DNA as a practical tool for aquatic conservation and restoration (Preface). <em>Landscape and Ecological Engineering</em> 19:1-2.",
+   "doi": "10.1007/s11355-022-00534-6",
+   "notes": [
+    "<sup>*</sup>Corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "173",
+   "year": 2023,
+   "type": "article",
+   "html": "Teruhiko Takahara, <strong>Hideyuki Doi</strong>, Toshihiro Kosuge, Nanae Nomura, Nobutaka Maki, Toshifumi Minamoto, and Katsutoshi Watanabe (2023) Effective environmental DNA collection for an endangered catfish species: testing for habitat and daily periodicity. <em>Ichthyological Research</em> 70:409-418.",
+   "doi": "10.1007/s10228-022-00900-2",
+   "source": "jimdo"
+  },
+  {
+   "id": "172",
+   "year": 2023,
+   "type": "article",
+   "html": "Nao Shiozuka, Izumi Katano<sup>*</sup>, <strong>Hideyuki Doi</strong><sup>*</sup>, Masatoshi Nakamura, Tomoyasu Shirako, and Hidetaka Ichiyanagi (2023) Diurnal detection of environmental DNA of the semi‐aquatic water shrew <em>Chimarrogale platycephala</em> using 25‐h water sampling in streams. <em>Landscape and Ecological Engineering</em> 19:69-77.",
+   "doi": "10.1007/s11355-022-00526-6",
+   "notes": [
+    "<sup>*</sup>Corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "171",
+   "year": 2022,
+   "type": "article",
+   "html": "Michinobu Kuwae, Bruce P. Finney, Zhiyuan Shi, Aya Sakaguchi, Narumi Tsugeki, Takayuki Omori, Tetsuro Agusa, Yoshiaki Suzuki, Yusuke Yokoyama, Hirofumi Hinata, Yoshio Hatada, Jun Inoue, Kazumi Matsuoka, Misaki Shimada, Hikaru Takahara, Shin Takahashi, Daisuke Ueno, Atsuko Amano, Jun Tsutsumi, Masanobu Yamamoto, Keiji Takemura, Keitaro Yamada, Ken Ikehara, Tsuyoshi Haraguchi, Stephen Tims, Michaela Froehlich, L Keith Fifield, Takahiro Aze, Kimikazu Sasa, Tsutomu Takahashi, Masumi Matsumura, Yukinori Tani, Peter R Leavitt, <strong>Hideyuki Doi</strong>, Tomohisa Irino, Kazuyoshi Moriya, Akira Hayashida, Kotaro Hirose, Hidekazu Suzuki, and Yoshiki Saito (2022) Beppu Bay, Japan, as a candidate Global Boundaries Stratotype Section and Point for an Anthropocene series. <em>The Anthropocene Review</em> 10:49-86.",
+   "doi": "10.1177/20530196221135077",
+   "source": "jimdo"
+  },
+  {
+   "id": "170",
+   "year": 2022,
+   "type": "article",
+   "html": "Moriaki Yasuhara, Huai-Hsuan May Huang, Markus Reuter, Skye Yunshu Tian, Jonathan D. Cybulski, Aaron O’Dea, Briony L. Mamo, Laura J. Cotton, Emanuela Di Martino, Ran Feng, Clay R. Tabor, Gabriel Reygondeau, Qianshuo Zhao, Mark T. Warne, Kyawt K. T. Aye, Jingwen Zhang, Anne Chao, Chih-Lin Wei, Fabien L. Condamine, Adam T. Kocsis, Wolfgang Kiessling, Mark J. Costello, Derek P. Tittensor, Chhaya Chaudhary, Marina C. Rillo, <strong>Hideyuki Doi</strong>, Yun-wei Dong, Thomas M. Cronin, Erin E. Saupe, Heike K. Lotze, Kenneth G. Johnson, Willem Renema, John M. Pandolfi, Mathias Harzhauser, Jeremy B. C. Jackson, Yuanyuan Hong (2022) Hotspots of Cenozoic tropical marine biodiversity. <em>Oceanography and Marine Biology: An Annual Review</em> 60: 243-300.",
+   "doi": "10.1201/9781003288602-5",
+   "source": "jimdo"
+  },
+  {
+   "id": "169",
+   "year": 2022,
+   "type": "article",
+   "html": "Fumiya Hirama, Jotaro Urabe<sup>*</sup>, <strong>Hideyuki Doi</strong>, Takehiro Kazama, Takumi Noguchi, Tyler H. Tappenbeck, Izumi Katano, Masato Yamamichi, Takehito Yoshida, and James J. Elser (2022) Terrigenous subsidies in lakes support zooplankton production mainly via a green food chain and not the brown food chain. <em>Frontiers in Ecology and Evolution</em> 10:956819.",
+   "doi": "10.3389/fevo.2022.956819",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "168",
+   "year": 2022,
+   "type": "article",
+   "html": "Pritam Banerjee, Kathryn A Stewart, Gobinda Dey, Caterina M Antognazza, Raju Kumar Sharma, Jyoti Prakash Maity, Santanu Saha, <strong>Hideyuki Doi</strong>, Natasha de Vere, Michael W Y Chan, Pin-Yun Lin, Hung-Chun Chao, and Chien-Yen Chen (2022) Environmental DNA analysis as an emerging non-destructive method for plant biodiversity monitoring: a review. <em>AoB Plants</em> 14:1-14.",
+   "doi": "10.1093/aobpla/plac031",
+   "source": "jimdo"
+  },
+  {
+   "id": "167",
+   "year": 2022,
+   "type": "article",
+   "html": "Takashi Fukuzawa<sup>*</sup>, Yuichi Kameda, Hisao Nagata, Naofumi Nishizawa, and <strong>Hideyuki Doi</strong><sup>*</sup> (2022) Filtration extraction method using microfluidic channel for measuring environmental DNA. <em>Molecular Ecology Resources</em> 22: 2651-2661.",
+   "doi": "10.1111/1755-0998.13657",
+   "notes": [
+    "<sup>*</sup>Corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "166",
+   "year": 2022,
+   "type": "article",
+   "html": "Shigeki Ogata, <strong>Hideyuki Doi</strong>, Takeshi Igawa, Shohei Komaki, and Teruhiko Takahara (2022) Environmental DNA methods for detecting two invasive alien species (American bullfrog and red swamp crayfish) in Japanese ponds. <em>Ecological Research</em> 37:701-710.",
+   "doi": "10.1111/1440-1703.12341",
+   "source": "jimdo"
+  },
+  {
+   "id": "165",
+   "year": 2022,
+   "type": "article",
+   "html": "Pritam Banerjee, Kathryn A. Stewart, Caterina M. Antognazza, Ingrid V. Bunholi, Kristy Deiner, Matthew A. Barnes, Santanu Saha, Héloïse Verdier, <strong>Hideyuki Doi</strong>, Jyoti Prakash Maity, Michael W. Y. Chan, and Chien Yen Chen (2022) Plant–animal interactions in the era of environmental DNA (eDNA)—A review. <em>Environmental DNA</em> 4:987-999.",
+   "doi": "10.1002/edn3.308",
+   "source": "jimdo"
+  },
+  {
+   "id": "164",
+   "year": 2022,
+   "type": "article",
+   "html": "Shunsuke Matsuoka, Yoriko Sugiyama, Mariko Nagano, and <strong>Hideyuki Doi</strong> (2022) Influence of DNA extraction kits on the fungal DNA metabarcoding for freshwater environmental DNA. <em>PeerJ</em> 10:e13477.",
+   "doi": "10.7717/peerj.13477",
+   "source": "jimdo"
+  },
+  {
+   "id": "163",
+   "year": 2022,
+   "type": "article",
+   "html": "Alexander K. Yurlov<sup>*</sup>, Natalia I. Yurlova<sup>*</sup>, Maria Yu. Garyushkina, Marina A. Selivanova, and <strong>Hideyuki Doi</strong><sup>*</sup> (2022) Long-term observation of the egg and chick size in the nests of <em>Larus ichthyaetus</em> in Lake Chany, Russia. <em>Scientific Data</em> 9:372.",
+   "doi": "10.1038/s41597-022-01454-8",
+   "notes": [
+    "<sup>*</sup>Co-corresponding authors (Alexander K. Yurlov deceased)."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "162",
+   "year": 2022,
+   "type": "article",
+   "html": "Teruhiko Takahara, Katsuya Fukui, Daisuke Hiramatsu, <strong>Hideyuki Doi</strong>, Masato Fujii, and Toshifumi Minamoto (2022) Development of primer-probe sets for environmental DNA-based monitoring of pond smelt <em>Hypomesus nipponensis</em> and Japanese icefish <em>Salangichthys microdon</em>. <em>Landscape and Ecological Engineering</em> 19:11-19.",
+   "doi": "10.1007/s11355-022-00507-9",
+   "source": "jimdo"
+  },
+  {
+   "id": "161",
+   "year": 2022,
+   "type": "article",
+   "html": "Narumi Tsugeki, Kai Nakane, <strong>Hideyuki Doi</strong>, Natsuki Ochi, and Michinobu Kuwae (2022) Reconstruction of 100-year dynamics in <em>Daphnia</em> spawning activity revealed by sedimentary DNA. <em>Scientific Reports</em> 12: 1741.",
+   "doi": "10.1038/s41598-021-03899-0",
+   "source": "jimdo"
+  },
+  {
+   "id": "160",
+   "year": 2022,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Takeshi Osawa†, and Narumasa Tsutsumida† (2022) Assessing the potential repercussions of the COVID-19 pandemic on global SDG attainment. <em>Discover Sustainability</em> 3:2.",
+   "doi": "10.1007/s43621-021-00067-2",
+   "notes": [
+    "†These authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "159",
+   "year": 2021,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>† and Tomoki Hirai† (2021) Estimation of deracinated trees area in temperate forest with satellite images employing machine learning methods. <em>PeerJ Computer Science</em> 7:e648.",
+   "doi": "10.7717/peerj-cs.648",
+   "notes": [
+    "†These authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "158",
+   "year": 2021,
+   "type": "article",
+   "html": "Ryohei Nakao, Ryutei Inui, Yoshihisa Akamatsu, Masuji Goto, <strong>Hideyuki Doi</strong> and Shunsuke Matsuoka (2021) Illumina iSeq 100 and MiSeq exhibit similar performance in freshwater fish environmental DNA metabarcoding. <em>Scientific Reports</em> 11:15763.",
+   "doi": "10.1038/s41598-021-95360-5",
+   "source": "jimdo"
+  },
+  {
+   "id": "157",
+   "year": 2021,
+   "type": "article",
+   "html": "Shunsuke Matsuoka, Yoriko Sugiyama, Yoshito Shimono, Masayuki Ushio, and <strong>Hideyuki Doi</strong> (2021) Evaluation of seasonal dynamics of fungal DNA assemblages in a flow-regulated stream in a restored forest using eDNA metabarcoding. <em>Environmental Microbiology</em> 23:4797-4806.",
+   "doi": "10.1111/1462-2920.15669",
+   "source": "jimdo"
+  },
+  {
+   "id": "156",
+   "year": 2021,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong><sup>*</sup>†, Moriaki Yasuhara<sup>*</sup>† and Masayuki Ushio<sup>*</sup>† (2021) Causal analysis of the temperature impact on deep-sea biodiversity. <em>Biology Letters</em> 17: 20200666.",
+   "doi": "10.1098/rsbl.2020.0666",
+   "notes": [
+    "†These authors equally contributed. <sup>*</sup>Corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "155",
+   "year": 2021,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Takeshi Watanabe, Naofumi Nishizawa, Tatsuya Saito, Hisao Nagata, Yuichi Kameda, Nobutaka Maki, Kousuke Ikeda, and Takashi Fukuzawa (2021) On-site environmental DNA detection of species using ultra-rapid mobile PCR. <em>Molecular Ecology Resources</em> 21:2364-2368.",
+   "doi": "10.1111/1755-0998.13448",
+   "source": "jimdo"
+  },
+  {
+   "id": "154",
+   "year": 2021,
+   "type": "article",
+   "html": "Naiara Rodriguez-Ezpeleta, Olivier Morissette, Colin W. Bean, Shivakumara Manu, Pritam Banerjee, Anaïs Lacoursière-Roussel, Kingsly C. Beng, S. Elizabeth Alter, Fabian Roger, Luke E. Holman, Kathryn A. Stewart, Michael T. Monaghan, Quentin Mauvisseau, Luca Mirimin, Owen S. Wangensteen, Caterina M. Antognazza, Sarah J. Helyar, Hugo de Boer, Marie-Eve Monchamp, Reindert Nijland, Cathryn L. Abbott, <strong>Hideyuki Doi</strong>, Matthew A. Barnes, Matthieu Leray, Pascal I. Hablützel, Kristy Deiner (2021) Trade-offs between reducing complex terminology and producing accurate interpretations from environmental DNA: Comment on “Environmental DNA: What's behind the term?” by Pawlowski et al., (2020). <em>Molecular Ecology</em> 30:4601-4605.",
+   "doi": "10.1111/mec.15942",
+   "source": "jimdo"
+  },
+  {
+   "id": "153",
+   "year": 2021,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> and Randy Nathaniel Mulia (2021) Future land use for insect meat production among countries: a global classification. <em>Frontiers in Nutrition</em> 8:661056.",
+   "doi": "10.3389/fnut.2021.661056",
+   "source": "jimdo"
+  },
+  {
+   "id": "152",
+   "year": 2021,
+   "type": "article",
+   "html": "Kazuto Takasaki, Hiroki Aihara, Takanobu Imanaka, Takahiro Matsudaira, Keita Tsukahara, Atsuko Usui, Sora Osaki, and <strong>Hideyuki Doi</strong><sup>*</sup> (2021) Water pre-filtration methods to improve environmental DNA detection by real-time PCR and metabarcoding. <em>PLOS ONE</em> 16: e0250162.",
+   "doi": "10.1371/journal.pone.0250162",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "151",
+   "year": 2021,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Hiroyoshi Higuchi†, Hiromi Kobori†, Sangdon Lee† and Richard B. Primack† (2021) Declining phenology observations by the Japan Meteorological Agency. <em>Nature Ecology and Evolution</em> 5: 886-887.",
+   "doi": "10.1038/s41559-021-01459-3",
+   "notes": [
+    "†These authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "150",
+   "year": 2021,
+   "type": "article",
+   "html": "Izumi Katano, Junjiro N. Negishi, Tomoko Minagawa, <strong>Hideyuki Doi</strong>, Yôichi Kawaguchi, and Yuichi Kayaba (2021) Effects of sediment replenishment on riverbed environments and macroinvertebrate assemblages downstream of a dam. <em>Scientific Reports</em> 11: 7525.",
+   "doi": "10.1038/s41598-021-86278-z",
+   "notes": [
+    "Featured by <a href=\"https://univ-journal.jp/90803/\">University Journal Online</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "149",
+   "year": 2021,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Ryutei Inui†, Shunsuke Matsuoka†, Yoshihisa Akamatsu, Masuji Goto, and Takanori Kono (2021) Estimation of biodiversity metrics by environmental DNA metabarcoding compared with visual and capture surveys of river fish communities. <em>Freshwater Biology</em> 66:1257-1266.",
+   "doi": "10.1111/fwb.13714",
+   "notes": [
+    "†These authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "148",
+   "year": 2021,
+   "type": "article",
+   "html": "Tatsuya Saito and <strong>Hideyuki Doi</strong> (2021) Degradation modeling of water environmental DNA: Experiments on multiple DNA sources in pond and seawater. <em>Environmental DNA</em> 3: 850-860.",
+   "doi": "10.1002/edn3.192",
+   "source": "jimdo"
+  },
+  {
+   "id": "147",
+   "year": 2021,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Toshifumi Minamoto†, Teruhiko Takahara, Satsuki Tsuji, Kimiko Uchii, Satoshi Yamamoto, Izumi Katano and Hiroki Yamanaka (2021) Compilation of real-time PCR conditions toward the standardization of eDNA methods. <em>Ecological Research</em> 36:379-388.",
+   "doi": "10.1111/1440-1703.12217",
+   "notes": [
+    "†The both authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "146",
+   "year": 2021,
+   "type": "article",
+   "html": "Tatsuya Saito and <strong>Hideyuki Doi</strong> (2021) A model and simulation of the influence of temperature and amplicon length on environmental DNA degradation rates: A meta-analysis approach. <em>Frontiers in Ecology and Evolution</em> 9:623831.",
+   "doi": "10.3389/fevo.2021.623831",
+   "source": "jimdo"
+  },
+  {
+   "id": "145",
+   "year": 2021,
+   "type": "article",
+   "html": "Tatsuhiko Hoshino, Ryohei Nakao, <strong>Hideyuki Doi</strong>, and Toshifumi Minamoto (2021) Simultaneous absolute quantification and sequencing of fish environmental DNA in a mesocosm by quantitative sequencing technique. <em>Scientific Reports</em> 11:4372.",
+   "doi": "10.1038/s41598-021-83318-6",
+   "source": "jimdo"
+  },
+  {
+   "id": "144",
+   "year": 2021,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Remigiusz Gałęcki†, and Randy Nathaniel Mulia (2021) The merits of entomophagy in the post COVID-19 world. <em>Trends in Food Science &amp; Technology</em> 110:849-854.",
+   "doi": "10.1016/j.tifs.2021.01.067",
+   "notes": [
+    "†The both authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "143",
+   "year": 2021,
+   "type": "article",
+   "html": "Toshiaki Jo, Saki Ikeda, Arisa Fukuoka, Takashi Inagawa, Jiro Okitsu, Izumi Katano, <strong>Hideyuki Doi</strong>, Katsuki Nakai, Hidetaka Ichiyanagi, and Toshifumi Minamoto (2021) Utility of environmental DNA analysis for effective monitoring of invasive fish species in reservoirs. <em>Ecosphere</em> 12:e03643.",
+   "doi": "10.1002/ecs2.3643",
+   "source": "jimdo"
+  },
+  {
+   "id": "142",
+   "year": 2021,
+   "type": "article",
+   "html": "Takehiro Kazama, Jotaro Urabe, Masato Yamamichi, Kotaro Tokita, Xuwang Yin, Izumi Katano, <strong>Hideyuki Doi</strong>, Takehito Yoshida and Nelson G. Hairston Jr. (2021) A unified framework for herbivore-to-producer biomass ratio reveals the relative influence of four ecological factors. <em>Communications Biology</em> 4:49.",
+   "doi": "10.1038/s42003-020-01587-9",
+   "source": "jimdo"
+  },
+  {
+   "id": "141",
+   "year": 2021,
+   "type": "article",
+   "html": "Shin-ichiro Oka, <strong>Hideyuki Doi</strong>, Kei Miyamoto, Nozomi Hanahara, Tetsuya Sado, and Masaki Miya (2021) Environmental DNA metabarcoding for biodiversity monitoring of a highly-diverse tropical fish community in a coral-reef lagoon: Estimation of species richness and detection of habitat segregation. <em>Environmental DNA</em> 3:55-69.",
+   "doi": "10.1002/edn3.132",
+   "notes": [
+    "Featured by Okinawa-times, Ryukyu-Shinpo."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "140",
+   "year": 2021,
+   "type": "article",
+   "html": "Toshifumi Minamoto, Masaki Miya, Tetsuya Sado, Satoquo Seino, <strong>Hideyuki Doi</strong>, Michio Kondoh, Keigo Nakamura, Teruhiko Takahara, Satoshi Yamamoto, Hiroki Yamanaka, Hitoshi Araki, Wataru Iwasaki, Akihide Kasai, Reiji Masuda, and Kimiko Uchii (2021) An illustrated manual for environmental DNA research: Water sampling guidelines and experimental protocols. <em>Environmental DNA</em> 3:8-13.",
+   "doi": "10.1002/edn3.121",
+   "source": "jimdo"
+  },
+  {
+   "id": "139",
+   "year": 2020,
+   "type": "article",
+   "html": "Tatsuhiko Hoshino<sup>*</sup>, <strong>Hideyuki Doi</strong><sup>*</sup>, Go-Ichiro Uramoto, Lars Wörmer, Rishi R. Adhikari, Nan Xiao, Yuki Morono, Steven D’Hondt, Kai-Uwe Hinrichs, and Fumio Inagaki<sup>*</sup> (2020) Global diversity of microbial communities in marine sediment. <em>Proceedings of the National Academy of Sciences of the United States of America</em> 117: 27587-27597.",
+   "doi": "10.1073/pnas.1919139117",
+   "notes": [
+    "<sup>*</sup>Corresponding authors",
+    "Featured by Kyodo-Tsushin, Kochi Shinbun, Kobe Shinbun, NHK Kochi, Yahoo News, 47 News and others",
+    "Awarded \"Deep Life Paper\" Awards 2020, International Center for Deep Life Investigation."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "138",
+   "year": 2020,
+   "type": "article",
+   "html": "Toshifumi Wada†, <strong>Hideyuki Doi</strong>†<sup>*</sup>, Daisuke Togaki, Ryotaro Kaida, Mariko Nagano, Izumi Katano, Masami Suzuki, Tetsuya Ohtani and Hiromune Mitsuhashi (2020) Exploring a legendary giant squid: An environmental DNA approach. <em>Marine Biology</em> 167:160.",
+   "doi": "10.1007/s00227-020-03773-z",
+   "notes": [
+    "†The both authors equally contributed (Toshifumi Wada deceased in 2018). <sup>*</sup>Corresponding author",
+    "Featured by <a href=\"https://www.hakaimagazine.com/news/on-the-trail-of-the-giant-squid/\">Hakai Magazine</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "137",
+   "year": 2020,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Yoshihisa Akamatsu†, Masuji Goto, Ryutei Inui, Takashi Komuro, Mariko Nagano, and Toshifumi Minamoto (2021) Broad-scale detection of environmental DNA for an invasive macrophyte and the relationship between DNA concentration and coverage in rivers. <em>Biological Invasions</em> 23: 507-520.",
+   "doi": "10.1007/s10530-020-02380-9",
+   "notes": [
+    "†The both authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "136",
+   "year": 2020,
+   "type": "article",
+   "html": "Michinobu Kuwae†, Hiromichi Tamai, <strong>Hideyuki Doi</strong>†, Masayuki K. Sakata, Toshifumi Minamoto, and Yoshiaki Suzuki (2020) Sedimentary DNA tracks decadal-centennial changes in fish abundance. <em>Communications Biology</em> 3:558.",
+   "doi": "10.1038/s42003-020-01282-9",
+   "notes": [
+    "†The both authors equally contributed.",
+    "Featured by Sankei-Tsushin, <a href=\"https://www.eurekalert.org/pub_releases/2020-11/eu-tfd111620.php\">Eurekalert</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "135",
+   "year": 2020,
+   "type": "article",
+   "html": "Shunsuke Matsuoka, <strong>Hideyuki Doi</strong>, Shota Masumoto, Ryo Kitagawa, Keita Nishizawa, Kaho Tanaka, Motohiro Hasegawa, Satoru Hobara, Takashi Osono, Akira S. Mori, and Masaki Uchida (2020) Taxonomic, functional, and phylogenetic diversity of fungi in a forest-tundra ecotone in Quebec. <em>Polar Science</em> 27:100594.",
+   "doi": "10.1016/j.polar.2020.100594",
+   "source": "jimdo"
+  },
+  {
+   "id": "134",
+   "year": 2020,
+   "type": "article",
+   "html": "Moriaki Yasuhara, Huai-Hsuan May Huang, Pincelli Hull, Marina C. Rillo, Fabien L. Condamine, Derek P. Tittensor, Michal Kučera, Mark J. Costello, Seth Finnegan, Aaron O’Dea, Yuanyuan Hong, Timothy C. Bonebrake, N. Ryan McKenzie, <strong>Hideyuki Doi</strong>, Chih-Lin Wei, Yasuhiro Kubota, Erin E. Saupe (2020) Time machine biology: Cross-timescale integration of ecology, evolution, and oceanography. <em>Oceanography</em> 33:16-28.",
+   "doi": "10.5670/oceanog.2020.225",
+   "source": "jimdo"
+  },
+  {
+   "id": "133",
+   "year": 2020,
+   "type": "article",
+   "html": "Mariko Nagano and <strong>Hideyuki Doi</strong> (2020) Ecological and evolutionary factors of intraspecific variation in inducible defenses: insights gained from <em>Daphnia</em> experiments. <em>Ecology and Evolution</em> 10:8554-8562.",
+   "doi": "10.1002/ece3.6599",
+   "source": "jimdo"
+  },
+  {
+   "id": "132",
+   "year": 2020,
+   "type": "article",
+   "html": "Teruhiko Takahara, Junya Taguchi, Satoshi Yamagishi, <strong>Hideyuki Doi</strong>, Shigeki Ogata, Hiroki Yamanaka, and Toshifumi Minamoto (2020) Suppression of eDNA degradation in water samples associated with different storage temperature and period using benzalkonium chloride. <em>Limnology and Oceanography: Methods</em> 18:437-445.",
+   "doi": "10.1002/lom3.10374",
+   "source": "jimdo"
+  },
+  {
+   "id": "131",
+   "year": 2020,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2020) Idea paper: Community‐interaction analyses contribute to improving the performance of microbial fuel cells. <em>Ecological Research</em> 35:583-585.",
+   "doi": "10.1111/1440-1703.12134",
+   "source": "jimdo"
+  },
+  {
+   "id": "130",
+   "year": 2020,
+   "type": "article",
+   "html": "Kana Hayami, Masayuki K. Sakata, Takashi Inagawa, Jiro Okitsu, Izumi Katano, <strong>Hideyuki Doi</strong>, Katsuki Nakai, Hidetaka Ichiyanagi, Ryo O. Gotoh, Masaki Miya, Hirotoshi Sato, Hiroki Yamanaka, and Toshifumi Minamoto (2020) Effects of sampling seasons and locations on fish environmental DNA metabarcoding in dam reservoirs. <em>Ecology and Evolution</em> 10:5354-5367.",
+   "doi": "10.1002/ece3.6279",
+   "source": "jimdo"
+  },
+  {
+   "id": "129",
+   "year": 2020,
+   "type": "article",
+   "html": "Takashi Shirouzu, Shunsuke Matsuoka, <strong>Hideyuki Doi</strong>, Nobuaki Nagata, Masayuki Ushio, and Kentaro Hosaka (2020) Complementary molecular methods reveal a comprehensive phylogenetic diversity with integrating invisible lineages of early-diverged mushrooms. <em>Scientific Reports</em> 10:3057.",
+   "doi": "10.1038/s41598-020-59620-0",
+   "source": "jimdo"
+  },
+  {
+   "id": "128",
+   "year": 2020,
+   "type": "article",
+   "html": "Daisuke Togaki†, <strong>Hideyuki Doi</strong>†, and Izumi Katano (2020) Detection of freshwater mussels (<em>Sinanodonta</em> spp.) in artificial ponds through environmental DNA: a comparison with traditional hand collection methods. <em>Limnology</em> 21:59–65.",
+   "doi": "10.1007/s10201-019-00584-0",
+   "notes": [
+    "†The both authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "127",
+   "year": 2019,
+   "type": "article",
+   "html": "Aozora Kakuda, <strong>Hideyuki Doi</strong><sup>*</sup>, Rio Souma, Mariko Nagano, Toshifumi Minamoto, and Izumi Katano<sup>*</sup> (2019) Environmental DNA detection and quantification of invasive red-eared sliders, <em>Trachemys scripta elegans</em>, in ponds and the influence of water quality. <em>PeerJ</em> 7:e8155.",
+   "doi": "10.7717/peerj.8155",
+   "notes": [
+    "<sup>*</sup>Corresponding authors"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "126",
+   "year": 2019,
+   "type": "article",
+   "html": "Shunsuke Matsuoka, Takaya Iwasaki, Yoriko Sugiyama, Eri Kawaguchi, <strong>Hideyuki Doi</strong> and Takashi Osono (2019) Biogeographic patterns of ectomycorrhizal fungal communities associated with <em>Castanopsis sieboldii</em> across the Japanese archipelago. <em>Frontiers in Microbiology</em> 10:2656.",
+   "doi": "10.3389/fmicb.2019.02656",
+   "source": "jimdo"
+  },
+  {
+   "id": "125",
+   "year": 2019,
+   "type": "article",
+   "html": "Randy Nathaniel Mulia and <strong>Hideyuki Doi</strong><sup>*</sup> (2019) Global simulation of insect meat production under climate change. <em>Frontiers in Sustainable Food Systems</em> 3:91.",
+   "doi": "10.3389/fsufs.2019.00091",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "124",
+   "year": 2019,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shigeto Takagi, and Shuichi Shikano (2019) Spatio-temporal stable isotope variation of a benthic primary consumer in a simple food web in a strongly acidic lake. <em>PeerJ</em> 7:e7890.",
+   "doi": "10.7717/peerj.7890",
+   "source": "jimdo"
+  },
+  {
+   "id": "123",
+   "year": 2019,
+   "type": "article",
+   "html": "Kimiko Uchii, <strong>Hideyuki Doi</strong>, Teruyuki Okahashi, Izumi Katano, Hiroki Yamanaka, Masayuki K. Sakata, and Toshifumi Minamoto (2019) Comparison of inhibition resistance among PCR reagents for detection and quantification of environmental DNA. <em>Environmental DNA</em> 1:359-367.",
+   "doi": "10.1002/edn3.37",
+   "source": "jimdo"
+  },
+  {
+   "id": "122",
+   "year": 2019,
+   "type": "article",
+   "html": "Kousuke Ikeda, <strong>Hideyuki Doi</strong>, Shigeharu Terui, Atsuko Kato, Takashi Mitsuzuka, Tadashi Kawai, and Junjiro N. Negishi (2019) Estimating native and invasive crayfish distributions in relation to culvert barriers with environmental DNA. <em>Freshwater Science</em> 38:654–660.",
+   "doi": "10.1086/704998",
+   "notes": [
+    "Featured by <a href=\"https://www.asahi.com/articles/ASMDJ5F8FMDJULBJ00M.html\">Asahi-Shinbun</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "121",
+   "year": 2019,
+   "type": "article",
+   "html": "Saeko Matsuhashi, Toshifumi Minamoto, and <strong>Hideyuki Doi</strong> (2019) Seasonal change in environmental DNA concentration of a submerged aquatic plant species. <em>Freshwater Science</em> 38:629–641.",
+   "doi": "10.1086/704996",
+   "source": "jimdo"
+  },
+  {
+   "id": "120",
+   "year": 2019,
+   "type": "article",
+   "html": "Viktoriia Radchuk, Thomas Reed, Céline Teplitsky, Martijn van de Pol, Anne Charmantier, Christopher Hassall, Peter Adamík, Frank Adriaensen, Markus Ahola, Peter Arcese, Jesús Miguel Avilés, Javier Balbontin, Wolf Blanckenhorn, Antoni Borras, Sarah Burthe, Jean Clobert, Nina Dehnhard, Florentino de Lope, André A. Dhondt, Niels J. Dingemanse, <strong>Hideyuki Doi</strong>, and 44 authors (2019) Adaptive responses of animals to climate change are most likely insufficient. <em>Nature Communications</em> 10:3109.",
+   "doi": "10.1038/s41467-019-10924-4",
+   "notes": [
+    "Featured by <a href=\"https://f1000.com/prime/736249619#eval793563300\">F1000</a>, <a href=\"https://natureecoevocommunity.nature.com/users/48069-viktoriia-radchuk/posts/51100-more-than-2000-emails-later\">Nature Research Ecology and Evolution Community</a>, <a href=\"https://www.nikkei.com/article/DGKKZO47851460W9A720C1TJM000/\">Nikkei-Shinbun</a>, <a href=\"https://www.eurekalert.org/pub_releases/2019-07/fb-ccf072219.php\">Eurekalert</a>, BBC, <a href=\"https://gigazine.net/news/20190804-animals-cant-adapt-climate-change/\">Gigazine</a>, and <a href=\"https://www.altmetric.com/details/63934603/news/\">others</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "119",
+   "year": 2019,
+   "type": "article",
+   "html": "Shunsuke Matsuoka, Yoriko Sugiyama, Hirotoshi Sato, Izumi Katano, Ken Harada, and <strong>Hideyuki Doi</strong> (2019) Spatial structures of fungal DNA assemblages revealed with eDNA metabarcoding in a forest river network in western Japan. <em>Metabarcoding and Metagenomics</em> 3:e36335.",
+   "doi": "10.3897/mbmg.3.36335",
+   "source": "jimdo"
+  },
+  {
+   "id": "118",
+   "year": 2019,
+   "type": "article",
+   "html": "Satsuki Tsuji, Teruhiko Takahara, <strong>Hideyuki Doi</strong>, Naoki Shibata, and Hiroki Yamanaka (2019) The detection of aquatic macroorganisms using environmental DNA analysis—a review of methods for collection, extraction, and detection. <em>Environmental DNA</em> 1:99-108.",
+   "doi": "10.1002/edn3.21",
+   "source": "jimdo"
+  },
+  {
+   "id": "117",
+   "year": 2019,
+   "type": "article",
+   "html": "Izumi Katano, and <strong>Hideyuki Doi</strong> (2019) Effects of stream grazers with different functional traits on the spatial heterogeneity of periphyton mats. <em>PeerJ</em> 7:e6747.",
+   "doi": "10.7717/peerj.6747",
+   "source": "jimdo"
+  },
+  {
+   "id": "116",
+   "year": 2019,
+   "type": "article",
+   "html": "Teruhiko Takahara, Takashi Ikebuchi, <strong>Hideyuki Doi</strong>, and Toshifumi Minamoto (2019) Using environmental DNA to estimate the seasonal distribution and habitat preferences of a Japanese basket clam in Lake Shinji, Japan. <em>Estuarine, Coastal and Shelf Science</em> 221:15-20.",
+   "doi": "10.1016/j.ecss.2019.02.022",
+   "notes": [
+    "Featured by <a href=\"https://www.sanin-chuo.co.jp/www/contents/1555464487758/index.html\">Sanin-Chuo Shinbun</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "115",
+   "year": 2019,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Keiichi Fukaya†, Shin-ichiro Oka, Keiichi Sato, Michio Kondoh, and Masaki Miya<sup>*</sup> (2019) Evaluation of detection probabilities at the water-filtering and initial PCR steps in environmental DNA metabarcoding using a multispecies site occupancy model. <em>Scientific Reports</em> 9:3581.",
+   "doi": "10.1038/s41598-019-40233-1",
+   "notes": [
+    "†The both authors equally contributed. <sup>*</sup>Corresponding author",
+    "Featured as <a href=\"https://www.nature.com/collections/ijcfgagceb\">Top-100 Ecology paper in Scientific Reports</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "114",
+   "year": 2019,
+   "type": "article",
+   "html": "Kazuya Fujii†, <strong>Hideyuki Doi</strong>†<sup>*</sup>, Shunsuke Matsuoka, Mariko Nagano, Hirotoshi Sato, and Hiroki Yamanaka (2019) Environmental DNA metabarcoding for fish community analysis in backwater lakes: A comparison of capture methods. <em>PLOS ONE</em> 14: e0210357.",
+   "doi": "10.1371/journal.pone.0210357",
+   "notes": [
+    "†The both authors equally contributed. <sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "113",
+   "year": 2019,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> and Helmut Hillebrand (2019) Historical contingency and productivity effects on food-chain length. <em>Communications Biology</em> 2:40.",
+   "doi": "10.1038/s42003-019-0287-8",
+   "source": "jimdo"
+  },
+  {
+   "id": "112",
+   "year": 2018,
+   "type": "article",
+   "html": "Yusuke Oda, <strong>Hideyuki Doi</strong>, Sho Nakano, Jong-Mo Suh, Hye-Ji Oh, Mei-Yan Jin, Yong-Jae Kim, Masaki Sakamoto, and Kwang-Hyeon Chang (2018) Spatiotemporal variability in a copepod community associated with fluctuations in salinity and trophic state in an artificial brackish reservoir at Saemangeum, South Korea. <em>PLOS ONE</em> 13: e0209403.",
+   "source": "researchmap-check",
+   "doi": "10.1371/journal.pone.0209403"
+  },
+  {
+   "id": "111",
+   "year": 2018,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kwang-Hyeon Chang and Shin-ichi Nakano (2018) Trophic niche breadth of pond zooplankton species using stable isotope analysis and the relationship with the abiotic and biotic factors. <em>Royal Society Open Science</em> 6:180917.",
+   "doi": "10.1098/rsos.180917",
+   "source": "jimdo"
+  },
+  {
+   "id": "110",
+   "year": 2018,
+   "type": "article",
+   "html": "Naoto F. Ishikawa†, <strong>Hideyuki Doi</strong>†, and Jacques C. Finlay (2018) Global dataset for carbon and nitrogen stable isotope ratios of lotic periphyton (Data paper). <em>Ecological Research</em> 33:1089.",
+   "doi": "10.1007/s11284-018-1623-z",
+   "notes": [
+    "†The both authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "109",
+   "year": 2018,
+   "type": "article",
+   "html": "Mariko Nagano and <strong>Hideyuki Doi</strong> (2018) Degree of high phenotypic plasticity in wild populations of <em>Daphnia</em> in early spring. <em>Journal of Limnology</em> 77:309-315.",
+   "doi": "10.4081/jlimnol.2018.1709",
+   "source": "jimdo"
+  },
+  {
+   "id": "108",
+   "year": 2018,
+   "type": "article",
+   "html": "Masato Yamamichi, Takehiro Kazama, Kotaro Tokita, Izumi Katano, <strong>Hideyuki Doi</strong>, Takehito Yoshida, Nelson G. Hairston Jr., and Jotaro Urabe (2018) A shady phytoplankton paradox: When phytoplankton increases under low light. <em>Proceedings of the Royal Society B: Biological Sciences</em> 285: 20181067.",
+   "doi": "10.1098/rspb.2018.1067",
+   "notes": [
+    "Featured by Sankei-Shinbun, and <a href=\"http://www.esj.ne.jp/esj/what_ecol/math.html\">ESJ web site</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "107",
+   "year": 2018,
+   "type": "article",
+   "html": "Thierry Chambert, David S. Pilliod, Caren S. Goldberg, <strong>Hideyuki Doi</strong>, and Teruhiko Takahara (2018) An analytical framework for estimating aquatic species density from environmental DNA. <em>Ecology and Evolution</em> 8:3468–3477.",
+   "doi": "10.1002/ece3.3764",
+   "source": "jimdo"
+  },
+  {
+   "id": "106",
+   "year": 2017,
+   "type": "article",
+   "html": "Hirotoshi Sato, Yuki Sogo, <strong>Hideyuki Doi</strong>, and Hiroki Yamanaka (2017) Usefulness and limitations of sample pooling for environmental DNA metabarcoding of freshwater fish communities. <em>Scientific Reports</em> 7:14860.",
+   "doi": "10.1038/s41598-017-14978-6",
+   "source": "jimdo"
+  },
+  {
+   "id": "105",
+   "year": 2017,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong><sup>*</sup>, Yoshihisa Akamatsu<sup>*</sup>, Yutaka Watanabe<sup>*</sup>, Masuji Goto, Ryutei Inui, Izumi Katano, Mariko Nagano, Teruhiko Takahara, and Toshifumi Minamoto (2017) Water sampling for environmental DNA surveys by using an unmanned aerial vehicle. <em>Limnology and Oceanography: Methods</em> 15:939-944.",
+   "doi": "10.1002/lom3.10214",
+   "notes": [
+    "<sup>*</sup>These authors equally contributed.",
+    "Featured by Asahi-Shinbun, Kobe-Shinbun, Kankyo Tenboudai, Yahoo News"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "104",
+   "year": 2017,
+   "type": "article",
+   "html": "Kimiko Uchii, <strong>Hideyuki Doi</strong>, Hiroki Yamanaka, and Toshifumi Minamoto (2017) Distinct seasonal migration patterns of Japanese native and non-native genotypes of common carp estimated by environmental DNA. <em>Ecology and Evolution</em> 7:8512-8522.",
+   "doi": "10.1002/ece3.3346",
+   "source": "jimdo"
+  },
+  {
+   "id": "103",
+   "year": 2017,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Fumikazu Akamatsu, and Angélica L. González (2017) Starvation effects on nitrogen and carbon stable isotopes of animals: an insight from meta-analysis of fasting experiments. <em>Royal Society Open Science</em> 4:170633.",
+   "doi": "10.1098/rsos.170633",
+   "source": "jimdo"
+  },
+  {
+   "id": "102",
+   "year": 2017,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Izumi Katano†, Yusuke Sakata, Rio Souma, Toshihiro Kosuge, Mariko Nagano, Kousuke Ikeda, Koki Yano, and Koji Tojo (2017) Detection of an endangered aquatic heteropteran using environmental DNA in a wetland ecosystem. <em>Royal Society Open Science</em> 4:170568.",
+   "doi": "10.1098/rsos.170568",
+   "notes": [
+    "†The both authors equally contributed.",
+    "Featured by Asahi-Shinbun, KensetsuKogyo-Shinbun, Tsukuba Science News"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "101",
+   "year": 2017,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Oscar Gordo, Terutaka Mori, and Mayumi T. Kubo (2017) A macroecological perspective for phenological research under climate change. <em>Ecological Research</em> 32:633-641.",
+   "doi": "10.1007/s11284-017-1480-1",
+   "notes": [
+    "Nominated as a groundbreaking article for SpringerNature <a href=\"https://www.springernature.com/gp/researchers/campaigns/change-the-world/earth-and-environmental-sciences\">Change the World 2018</a>."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "100",
+   "year": 2017,
+   "type": "article",
+   "html": "Izumi Katano<sup>*</sup>, Ken Harada<sup>*</sup>, <strong>Hideyuki Doi</strong><sup>*</sup>, Rio Souma, and Toshifumi Minamoto (2017) Environmental DNA method for estimating salamander distribution in headwater streams, and a comparison of water sampling methods. <em>PLOS ONE</em> 12:e0176541.",
+   "doi": "10.1371/journal.pone.0176541",
+   "notes": [
+    "<sup>*</sup>These authors equally contributed.",
+    "Featured by Yomiuri-Shinbun"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "99",
+   "year": 2017,
+   "type": "article",
+   "html": "Izumi Katano, Hiromune Mitsuhashi, <strong>Hideyuki Doi</strong>, Yu Isobe, and Tadashi Oishi (2017) Distribution and drift dispersal dynamics of a caddisfly grazer in response to resource abundance and its ontogeny. <em>Royal Society Open Science</em> 4:160732.",
+   "doi": "10.1098/rsos.160732",
+   "source": "jimdo"
+  },
+  {
+   "id": "98",
+   "year": 2017,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kimiko Uchii, Saeko Matsuhashi, Teruhiko Takahara, Hiroki Yamanaka, and Toshifumi Minamoto (2017) Isopropanol precipitation method for collecting fish environmental DNA. <em>Limnology and Oceanography: Methods</em> 15:212-218.",
+   "doi": "10.1002/lom3.10161",
+   "source": "jimdo"
+  },
+  {
+   "id": "97",
+   "year": 2017,
+   "type": "article",
+   "html": "Toshifumi Minamoto, Kimiko Uchii, Teruhiko Takahara, Takumi Kitayoshi, Satsuki Tsuji, Hiroki Yamanaka, and <strong>Hideyuki Doi</strong> (2017) Nuclear internal transcribed spacer-1 as a sensitive genetic marker for environmental DNA studies in common carp <em>Cyprinus carpio</em>. <em>Molecular Ecology Resources</em> 17: 324-333.",
+   "doi": "10.1111/1755-0998.12586",
+   "source": "jimdo"
+  },
+  {
+   "id": "96",
+   "year": 2017,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Ryutei Inui†, Yoshihisa Akamatsu, Kazuki Kanno, Hiroki Yamanaka, Teruhiko Takahara, and Toshifumi Minamoto (2017) Environmental DNA analysis for estimating the abundance and biomass of stream fish. <em>Freshwater Biology</em> 62:30-39.",
+   "doi": "10.1111/fwb.12846",
+   "notes": [
+    "†The both authors equally contributed.",
+    "Featured by Sankei-Shinbun, Chugoku-Shinbun, Ube-Nippou, MyNavi news"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "95",
+   "year": 2016,
+   "type": "article",
+   "html": "Masaki Miya, Toshifumi Minamoto, Hiroki Yamanaka, Shin-ichiro Oka, Keiichi Sato, Satoshi Yamamoto, Tatsuya Sado, and <strong>Hideyuki Doi</strong> (2016) Use of a filter cartridge for filtration of water samples and extraction of environmental DNA. <em>Journal of Visualized Experiments</em> 117:e54741.",
+   "doi": "10.3791/54741",
+   "notes": [
+    "<a href=\"http://www.jove.com/video/54741\">Video instruction</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "94",
+   "year": 2016,
+   "type": "article",
+   "html": "Kousuke Ikeda†, <strong>Hideyuki Doi</strong>†, Kazunori Tanaka, Tadashi Kawai, and Junjiro N. Negishi (2016) Using environmental DNA to detect an endangered crayfish <em>Cambaroides japonicus</em> in streams. <em>Conservation Genetics Resources</em> 8: 231-234.",
+   "doi": "10.1007/s12686-016-0541-z",
+   "notes": [
+    "†The both authors equally contributed.",
+    "Featured by <a href=\"http://www.asahi.com/articles/ASJ6M558DJ6MULBJ003.html\">Asahi-Shinbun (Digital)</a>, Mainichi-Shinbun, Nikkei-Shinbun, Shinano Mainichi-Shinbun, Hokkaido Kensetsu-Shinbun, Hokkaido Tsushin, Nikkei Asian Review, Kobe-Shinbun Next news, Yahoo! news, 47News, ITmedia, MyNavi news, etc"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "93",
+   "year": 2016,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, and Teruhiko Takahara (2016) Global patterns of conservation research importance in different countries of the world. <em>PeerJ</em> 4:e2173.",
+   "doi": "10.7717/peerj.2173",
+   "source": "jimdo"
+  },
+  {
+   "id": "92",
+   "year": 2016,
+   "type": "article",
+   "html": "Saeko Matsuhashi, <strong>Hideyuki Doi</strong>, Ayaka Fujiwara, Sonoko Watanabe, and Toshifumi Minamoto (2016) Evaluation of the environmental DNA method for estimating distribution and biomass of submerged aquatic plants. <em>PLOS ONE</em> 11:e0156217.",
+   "doi": "10.1371/journal.pone.0156217",
+   "source": "jimdo"
+  },
+  {
+   "id": "91",
+   "year": 2016,
+   "type": "article",
+   "html": "Moriaki Yasuhara†, <strong>Hideyuki Doi</strong>†, Chih-Lin Wei†, Roberto Danovaro, and Sarah E. Myhre (2016) Biodiversity-ecosystem functioning relationships in long-term time series and paleoecological records: deep sea as a test bed. <em>Philosophical Transactions of the Royal Society B: Biological Sciences</em> 371:20150282.",
+   "doi": "10.1098/rstb.2015.0282",
+   "notes": [
+    "†These authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "90",
+   "year": 2016,
+   "type": "article",
+   "html": "Ayaka Fujiwara, Saeko Matsuhashi, <strong>Hideyuki Doi</strong>, Satoshi Yamamoto, and Toshifumi Minamoto (2016) Use of environmental DNA to survey the distribution of an invasive submerged plant in ponds. <em>Freshwater Science</em> 35: 748-754.",
+   "doi": "10.1086/685882",
+   "source": "jimdo"
+  },
+  {
+   "id": "89",
+   "year": 2016,
+   "type": "article",
+   "html": "Takeshi Miki, and <strong>Hideyuki Doi</strong><sup>*</sup> (2016) Leaf phenological shifts and plant-microbe-soil interactions can determine forest productivity and nutrient cycling under climate change in an ecosystem model. <em>Ecological Research</em> 31:263-274.",
+   "doi": "10.1007/s11284-016-1333-3",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "88",
+   "year": 2016,
+   "type": "article",
+   "html": "Kimiko Uchii, <strong>Hideyuki Doi</strong>, and Toshifumi Minamoto (2016) A novel environmental DNA approach to quantify the cryptic invasion of non-native genotypes. <em>Molecular Ecology Resources</em> 16:415-422.",
+   "doi": "10.1111/1755-0998.12460",
+   "notes": [
+    "Featured by <a href=\"http://www.sciencedaily.com/releases/2015/09/150907101202.htm\">ScienceDaily</a>, <a href=\"http://www.eurekalert.org/pub_releases/2015-09/ku-io090915.php\">Eurekalert</a>, <a href=\"http://www.sciencenewsline.com/summary/2015091017220026.html\">Science Newsline</a>, <a href=\"http://phys.org/news/2015-09-invasion-non-native-species-exposed-environmental.html\">Phys.org</a>, Helpinus"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "87",
+   "year": 2015,
+   "type": "article",
+   "html": "Izumi Katano, <strong>Hideyuki Doi</strong><sup>*</sup>, Britas Klemens Eriksson, and Helmut Hillebrand (2015) A cross-system meta-analysis reveals coupled predation effects on prey biomass and diversity. <em>Oikos</em> 124:1427-1435.",
+   "doi": "10.1111/oik.02430",
+   "notes": [
+    "<sup>*</sup>Corresponding author",
+    "Featured by Oikos Editor's Choice"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "86",
+   "year": 2015,
+   "type": "article",
+   "html": "Susanne Menden-Deuer, Laura Bristow, <strong>Hideyuki Doi</strong>, Christopher Filstrup, Andrea Johnson, Kevin Rose, Xiao Xi, Amy Burgess, and Grace Wilkinson (2015) Big data on important issues: Assessing the needs of student and early career aquatic scientists. <em>Limnology and Oceanography Bulletin</em> 24:77-79.",
+   "doi": "10.1002/lob.10052",
+   "source": "jimdo"
+  },
+  {
+   "id": "85",
+   "year": 2015,
+   "type": "article",
+   "html": "Noriyuki Koizumi, Teruhiko Takahara, Toshifumi Minamoto, <strong>Hideyuki Doi</strong>, Atsushi Mori, Keiji Watanabe, and Takeshi Takemura (2015) Preliminary experiment for detection method of fish inhabiting agricultural drainage canals using environmental DNA. <em>IDRE Journal</em> 297: IV_7-IV_8.",
+   "doi": "10.11408/jsidre.83.IV_7",
+   "source": "jimdo"
+  },
+  {
+   "id": "84",
+   "year": 2015,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Teruhiko Takahara†, Toshifumi Minamoto, Saeko Matsuhashi, Kimiko Uchii, and Hiroki Yamanaka (2015) Droplet digital polymerase chain reaction (PCR) outperforms real-time PCR in the detection of environmental DNA from an invasive fish species. <em>Environmental Science &amp; Technology</em> 49:5601-5608.",
+   "doi": "10.1021/acs.est.5b00253",
+   "notes": [
+    "†The both authors equally contributed."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "83",
+   "year": 2015,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kimiko Uchii, Teruhiko Takahara, Saeko Matsuhashi, Hiroki Yamanaka, and Toshifumi Minamoto (2015) Use of droplet digital PCR for estimation of fish abundance and biomass in environmental DNA surveys. <em>PLOS ONE</em> 10:e0122763.",
+   "doi": "10.1371/journal.pone.0122763",
+   "notes": [
+    "Featured by <a href=\"http://www.sciencedaily.com/releases/2015/04/150406101007.htm\">ScienceDaily</a>, <a href=\"http://phys.org/news/2015-04-aquatic-habitat.html\">Phys.org</a>, <a href=\"http://dna-barcoding.blogspot.jp/2015/04/measuring-edna-concentrations.html\">DNA barcoding Blog</a>, <a href=\"http://www.sciencenewsline.com/news/2015040616440019.html\">Science Newsline</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "82",
+   "year": 2015,
+   "type": "article",
+   "html": "Teruhiko Takahara, Satoru Endo, Momo Takada, Yurika Oba, Wim Ikbal Nursal, Takeshi Igawa, <strong>Hideyuki Doi</strong>, Toshihiro Yamada, and Toshinori Okuda (2015) Radiocesium accumulation in the anuran frog, <em>Rana tagoi tagoi</em>, in forest ecosystems after the Fukushima Nuclear Power Plant accident. <em>Environmental Pollution</em> 199:89-94.",
+   "doi": "10.1016/j.envpol.2015.01.018",
+   "source": "jimdo"
+  },
+  {
+   "id": "81",
+   "year": 2015,
+   "type": "article",
+   "html": "Teruhiko Takahara, Toshifumi Minamoto, and <strong>Hideyuki Doi</strong> (2015) Effects of sample processing on the detection rate of environmental DNA from the Common Carp (<em>Cyprinus carpio</em>). <em>Biological Conservation</em> 183:64-69.",
+   "doi": "10.1016/j.biocon.2014.11.014",
+   "source": "jimdo"
+  },
+  {
+   "id": "80",
+   "year": 2014,
+   "type": "article",
+   "html": "Kwang-Hyeon Chang, <strong>Hideyuki Doi</strong>, Yuichiro Nishibe, Gui-Sook Nam and Shin-ichi Nakano (2014) Feeding behavior of the copepod <em>Temora turbinata</em>: clearance rate and prey preference on the diatom and microbial food web components in coastal area. <em>Journal of Ecology and Environment</em> 37: 225-229.",
+   "doi": "10.5141/ecoenv.2014.027",
+   "source": "jimdo"
+  },
+  {
+   "id": "79",
+   "year": 2014,
+   "type": "article",
+   "html": "Izumi Katano, and <strong>Hideyuki Doi</strong> (2014) Stream grazers determine their crawling direction on the basis of chemical and particulate microalgal cues. <em>PeerJ</em> 2:e503.",
+   "doi": "10.7717/peerj.503",
+   "source": "jimdo"
+  },
+  {
+   "id": "78",
+   "year": 2014,
+   "type": "article",
+   "html": "Teruhiko Takahara, Mie N. Honjo, Kimiko Uchii, Toshifumi Minamoto, <strong>Hideyuki Doi</strong>, Takafumi Ito, and Zen’ichiro Kawabata (2014) Effects of daily temperature fluctuation on the survival of carp infected with Cyprinid herpesvirus 3. <em>Aquaculture</em> 433:208-213.",
+   "doi": "10.1016/j.aquaculture.2014.06.001",
+   "source": "jimdo"
+  },
+  {
+   "id": "77",
+   "year": 2014,
+   "type": "article",
+   "html": "Teruhiko Takahara, Toshifumi Minamoto, <strong>Hideyuki Doi</strong>, Takafumi Ito, and Zen’ichiro Kawabata (2014) Differences between domesticated Eurasian and Japanese indigenous strains of the common carp (<em>Cyprinus carpio</em>) in cortisol release following acute stressor. <em>Ichthyological Research</em> 61:165-168.",
+   "doi": "10.1007/s10228-013-0385-4",
+   "source": "jimdo"
+  },
+  {
+   "id": "76",
+   "year": 2014,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Alexandre Heeren and Pierre Maurage (2014) Scientific activity is a better predictor of Nobel award chances than dietary habits and economic factors. <em>PLOS ONE</em> 9:e92612.",
+   "doi": "10.1371/journal.pone.0092612",
+   "notes": [
+    "Featured by <a href=\"http://xjentifika.wordpress.com/2014/03/30/dlaczego-jedzenie-czekolady-nie-wystarczy-zeby-dostac-nobla/\">Xjentifika</a>, <a href=\"http://soylentnews.org/article.pl?sid=14/03/29/0319231\">Soylent NEWS</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "75",
+   "year": 2013,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Elena I. Zuykova, Shuichi Shikano, Eisuke Kikuchi, Hiroshi Ota, Natalia I. Yurlova, and Elena Yadrenkina (2013) Isotopic evidence for the spatial heterogeneity of the planktonic food webs in the transition zone between river and lake ecosystems. <em>PeerJ</em> 1:e222.",
+   "doi": "10.7717/peerj.222",
+   "notes": [
+    "Featured by <a href=\"http://blog.peerj.com/post/76208332585/plankton-and-marine-biology\">PeerJ Blog</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "74",
+   "year": 2013,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2013) The “four-color issue” in ecology for considering ecosystem boundaries. <em>Web Ecology</em> 13:91-93.",
+   "doi": "10.5194/we-13-91-2013",
+   "source": "jimdo"
+  },
+  {
+   "id": "73",
+   "year": 2013,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Izumi Katano, Junjiro N. Negishi, Seiji Sanada, and Yuichi Kayaba (2013) Effects of biodiversity, habitat structure, and water quality on human recreational use of rivers. <em>Ecosphere</em> 4:102.",
+   "doi": "10.1890/ES12-00305.1",
+   "notes": [
+    "Featured by <a href=\"http://www.kobe-np.co.jp/news/shakai/201308/0006277902.shtml\">Kobe-Shinbun</a>, Chugoku-Shinbun, Mynavi news, Yahoo! news, etc"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "72",
+   "year": 2013,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kwang-Hyeon Chang, Yuichiro Nishibe, Hiroyuki Imai, and Shin-ichi Nakano (2013) Lack of congruence in species diversity indices and community structures of planktonic groups based on local environmental factors. <em>PLOS ONE</em> 8:e69594.",
+   "doi": "10.1371/journal.pone.0069594",
+   "source": "jimdo"
+  },
+  {
+   "id": "71",
+   "year": 2013,
+   "type": "article",
+   "html": "Teruhiko Takahara, Toshifumi Minamoto, and <strong>Hideyuki Doi</strong> (2013) Using environmental DNA to estimate the distribution of an invasive fish species in ponds. <em>PLOS ONE</em> 8:e56584.",
+   "doi": "10.1371/journal.pone.0056584",
+   "notes": [
+    "Featured by Asahi-Shinbun, Yomiuri-Shinbun, Mainichi-Shinbun, Sankei-Shinbun, Chugoku-Shinbun, Nikkei-Shinbun, Tokyo-Shinbun, Kyodonews, 47News, etc."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "70",
+   "year": 2013,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, and Terutaka Mori (2013) The discovery of species-abundance distribution in an ecological community. <em>Oikos</em> 122:179-182.",
+   "doi": "10.1111/j.1600-0706.2012.00068.x",
+   "notes": [
+    "Appendix: <a href=\"http://www.oikos.ekol.lu.se/appendixdown/OIK-00068.pdf\">English translation of Motomura (1932)</a>",
+    "Featured by <a href=\"http://www.sci.tohoku.ac.jp/news/2012/12/oikos.html\">Faculty of Science, Tohoku University</a>, <a href=\"https://oikosjournal.wordpress.com/2012/11/22/with-inspiration-from-the-past/\">Oikos Blog</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "69",
+   "year": 2013,
+   "type": "article",
+   "html": "Teruhiko Takahara, <strong>Hideyuki Doi</strong>, Yukihiro Kohmatsu, and Ryohei Yamaoka (2013) Different chemical cues originating from a shared predator induce common defense response in two prey species. <em>Animal Cognition</em> 16:147-153.",
+   "doi": "10.1007/s10071-012-0565-z",
+   "source": "jimdo"
+  },
+  {
+   "id": "68",
+   "year": 2012,
+   "type": "article",
+   "html": "Oscar Gordo and <strong>Hideyuki Doi</strong><sup>*</sup> (2012) Drivers of population variability in phenological responses to climate change in Japanese birds. <em>Climate Research</em> 54:95-112.",
+   "doi": "10.3354/cr01099",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "67",
+   "year": 2012,
+   "type": "article",
+   "html": "Naoto F. Ishikawa†, <strong>Hideyuki Doi</strong>†, and Jacques C. Finlay (2012) Global meta-analysis for controlling factors on carbon stable isotope ratio of lotic periphyton. <em>Oecologia</em> 170:541-549.",
+   "doi": "10.1007/s00442-012-2308-x",
+   "notes": [
+    "†Both authors contributed equally to the paper."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "66",
+   "year": 2012,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2012) Response of the <em>Morus bombycis</em> growing season to temperature and its latitudinal pattern in Japan. <em>International Journal of Biometeorology</em> 56:895-902.",
+   "doi": "10.1007/s00484-011-0495-5",
+   "source": "jimdo"
+  },
+  {
+   "id": "65",
+   "year": 2012,
+   "type": "article",
+   "html": "Teruhiko Takahara, Yukihiro Kohmatsu, Atsushi Maruyama, <strong>Hideyuki Doi</strong>, Hiroki Yamanaka, and Ryohei Yamaoka (2012) Inducible defense behavior of an anuran tadpole: cue-detection range and cue types against predator. <em>Behavioral Ecology</em> 23:863-868.",
+   "doi": "10.1093/beheco/ars044",
+   "source": "jimdo"
+  },
+  {
+   "id": "64",
+   "year": 2012,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, M. Jake Vander Zanden, and Helmut Hillebrand (2012) Shorter food-chain lengths in ancient lakes: Evidence from a global synthesis. <em>PLoS ONE</em> 7:e37856.",
+   "doi": "10.1371/journal.pone.0037856",
+   "notes": [
+    "Recommended by <a href=\"http://f1000.com/717952554\">Faculty of 1000</a>, Featured by Chugoku-Shinbun"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "63",
+   "year": 2012,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2012) Resource productivity and availability impacts for food-chain length. <em>Ecological Research</em> 27:521-527.",
+   "doi": "10.1007/s11284-012-0941-9",
+   "notes": [
+    "Denzaburo Miyadi Award Review"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "62",
+   "year": 2012,
+   "type": "article",
+   "html": "Oscar Gordo and <strong>Hideyuki Doi</strong><sup>*</sup> (2012) Spring phenology delays in an insular semitropical songbird: Is response to climate change constrained by population size? <em>Journal of Ornithology</em> 153:355-366.",
+   "doi": "10.1007/s10336-011-0750-x",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "61",
+   "year": 2012,
+   "type": "article",
+   "html": "Teruhiko Takahara, Toshifumi Minamoto, Hiroki Yamanaka, <strong>Hideyuki Doi</strong>, and Zen’ichiro Kawabata (2012) Estimation of fish biomass using environmental DNA. <em>PLoS ONE</em> 7:e35868.",
+   "doi": "10.1371/journal.pone.0035868",
+   "notes": [
+    "Featured by TV-ShinHiroshima news, Yomiuri-Shinbun, Mainichi-Shinbun, Chugoku-Shinbun, Nikkei-Shinbun"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "60",
+   "year": 2012,
+   "type": "article",
+   "html": "Takefumi Nakazawa and <strong>Hideyuki Doi</strong><sup>*</sup> (2012) A perspective on match/mismatch of phenology in community contexts. <em>Oikos</em> 121:489–495.",
+   "doi": "10.1111/j.1600-0706.2011.20171.x",
+   "notes": [
+    "<sup>*</sup>Corresponding author"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "59",
+   "year": 2012,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Teruhiko Takahara and Kazuya Tanaka (2012) Trophic position and metabolic rate predict long-term decay process on radioactive cesium in fish: A meta-analysis. <em>PLoS ONE</em> 7:e29295.",
+   "doi": "10.1371/journal.pone.0029295",
+   "notes": [
+    "Featured by NHK E-TV “Science Zero”, NHK-TV Hiroshima news, NHK Online, Yomiuri-Shinbun, Mainichi-Shinbun, Chugoku-Shinbun, Nikkei-Shinbun, Tokyo-Shinbun, Kyodonews, Yahoo! news, 47News, etc"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "58",
+   "year": 2011,
+   "type": "article",
+   "html": "Seiko Mizuta, Maiko Kusaba, Hiroyuki Imai, Kwang-Hyeon Chang, <strong>Hideyuki Doi</strong>, Yuichiro Nishibe and Shin-ichi Nakano (2011) Grazing on <em>Microcystis</em> (Cyanophyceae) by testate amoebae with special reference to cyanobacterial abundance and physiological state. <em>Limnology</em> 12:205-211.",
+   "doi": "10.1007/s10201-010-0341-1",
+   "source": "jimdo"
+  },
+  {
+   "id": "57",
+   "year": 2011,
+   "type": "article",
+   "html": "Yoshito Chikaraishi, Nanako O. Ogawa, <strong>Hideyuki Doi</strong>, and Naohiko Ohkouchi (2011) 15N/14N ratio of amino acids as a tool for studying terrestrial food webs: a case study of the terrestrial insects (bee, wasp, and hornet). <em>Ecological Research</em> 26:835-844.",
+   "doi": "10.1007/s11284-011-0844-1",
+   "notes": [
+    "Awarded the 12th Ecological Research Award"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "56",
+   "year": 2011,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, and Natalia I. Yurlova† (2011) Host-parasite interactions and global climate oscillations. <em>Parasitology</em> 138:1022-1028.",
+   "doi": "10.1017/S0031182011000655",
+   "notes": [
+    "†Both authors contributed equally to this paper."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "55",
+   "year": 2011,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, and Natalia I. Yurlova† (2011) Consequent effects of parasitism on population dynamics, food web and human health under climate change. <em>Ambio</em> 40:332-334.",
+   "doi": "10.1007/s13280-010-0068-6",
+   "notes": [
+    "†Both authors contributed equally to this paper."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "54",
+   "year": 2011,
+   "type": "article",
+   "html": "Kwang-Hyeon Chang, Masaki Sakamoto, Jin-Yong Ha, Yuichi Miyabara, Tomoki Murakami, Shin-ichi Nakano, <strong>Hideyuki Doi</strong>, and Takayuki Hanazato (2011) Response of plankton community in eutrophicated system to herbicide application (triazine herbicide, simetryn): short-term exposure experiment using microcosms. <em>Limnology</em> 12:11-16.",
+   "doi": "10.1007/s10201-010-0317-1",
+   "source": "jimdo"
+  },
+  {
+   "id": "53",
+   "year": 2011,
+   "type": "article",
+   "html": "Junjiro N. Negishi, <strong>Hideyuki Doi</strong>, Izumi Katano, and Yuichi Kayaba (2011) Seasonally tracking vertical and horizontal distribution of unionid mussels (<em>Pronodularia japanensis</em>): Implications for agricultural drainage management. <em>Aquatic Conservation: Marine and Freshwater Ecosystems</em> 21:49-56.",
+   "doi": "10.1002/aqc.1153",
+   "source": "jimdo"
+  },
+  {
+   "id": "52",
+   "year": 2011,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kwang-Hyeon Chang, and Shin-ichi Nakano (2011) Nitrogen and carbon isotope fractionations of zooplankton consumers in ponds: Potential effect of seston stoichiometry. <em>Marine and Freshwater Research</em> 62:66-71.",
+   "doi": "10.1071/MF10090",
+   "source": "jimdo"
+  },
+  {
+   "id": "51",
+   "year": 2010,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Toru Kobari, Kayoko Fukumori, Yuichiro Nishibe and Shin-ichi Nakano (2010) Trophic niche breadth variability differs among three <em>Neocalanus</em> species in the subarctic Pacific Ocean. <em>Journal of Plankton Research</em> 32:1733-1737.",
+   "doi": "10.1093/plankt/fbq083",
+   "source": "jimdo"
+  },
+  {
+   "id": "50",
+   "year": 2010,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Natalia I. Yurlova, Eisuke Kikuchi, Shuichi Shikano, Elena Yadrenkina, and Elena I. Zuykova (2010) Stable isotopes indicate individual level trophic diversity in a freshwater model gastropod, <em>Lymnaea stagnalis</em>. <em>Journal of Molluscan Studies</em> 76:384-388.",
+   "doi": "10.1093/mollus/eyq020",
+   "source": "jimdo"
+  },
+  {
+   "id": "49",
+   "year": 2010,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kwang-Hyeon Chang, and Shin-ichi Nakano (2010) Dispersal, connectivity, and local conditions determine zooplankton community in artificially connected ponds. <em>Aquatic Biology</em> 10:47-55.",
+   "doi": "10.3354/ab00262",
+   "source": "jimdo"
+  },
+  {
+   "id": "48",
+   "year": 2010,
+   "type": "article",
+   "html": "Kwang-Hyeon Chang, <strong>Hideyuki Doi</strong>, Yuichiro Nishibe, and Shin-ichi Nakano (2010) Feeding habit of omnivorous <em>Asplanchna</em>: comparison of diet composition among <em>Asplanchna herricki</em>, <em>A. priodonta</em> and <em>A. girodi</em> in pond ecosystems. <em>Journal of Limnology</em> 69:209-216.",
+   "doi": "10.4081/jlimnol.2010.209",
+   "source": "jimdo"
+  },
+  {
+   "id": "47",
+   "year": 2010,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shigeto Takagi, and Shuichi Shikano (2010) Differences in nitrogen and carbon stable isotopes between planktonic and benthic microalgae. <em>Limnology</em> 11:185-192.",
+   "doi": "10.1007/s10201-009-0297-1",
+   "source": "jimdo"
+  },
+  {
+   "id": "46",
+   "year": 2010,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>†, Natalia I. Yurlova†, Svetlana N. Vodyanitskaya, Gen Kanaya, Shuichi Shikano and Eisuke Kikuchi (2010) Estimating isotope fractionations between cercariae and host snail using isotope measurements designed for very small organism. <em>Journal of Parasitology</em> 96:314-317.",
+   "doi": "10.1645/GE-2245.1",
+   "notes": [
+    "†Both authors contributed equally to this paper."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "45",
+   "year": 2010,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Mehdi Cherif, Tsubasa Iwabuchi, Izumi Katano, James C. Stegen, and Maren Striebel (2010) Integrating elements and energy through the metabolic dependencies of gross growth efficiency and the threshold elemental ratio. <em>Oikos</em> 119:752-765.",
+   "doi": "10.1111/j.1600-0706.2009.18540.x",
+   "notes": [
+    "†All authors contributed equally to the paper."
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "44",
+   "year": 2010,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kwang-Hyeon Chang, Takamitsu Ando, Hiroyuki Imai, and Shin-ichi Nakano (2010) Shoreline bank construction modifies benthic-pelagic coupling of food webs. <em>Ecological Engineering</em> 36:601-604.",
+   "doi": "10.1016/j.ecoleng.2009.12.017",
+   "source": "jimdo"
+  },
+  {
+   "id": "43",
+   "year": 2010,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Mayumi Takahashi and Izumi Katano (2010) Genetic diversity increases regional variations in phenological responses to climate change. <em>Global Change Biology</em> 16:373-379.",
+   "doi": "10.1111/j.1365-2486.2009.01993.x",
+   "notes": [
+    "Featured by the cover photo of the issue: Japanese cherry flower (<em>Prunus × yedoensis</em>, Someiyoshino)"
+   ],
+   "source": "jimdo",
+   "image": "gcb-cover"
+  },
+  {
+   "id": "42",
+   "year": 2009,
+   "type": "article",
+   "html": "Gen Kanaya, Elena N. Yadrenkina, Elena I. Zuykova, Eisuke Kikuchi, Shuichi Shikano, Chitoshi Mizota, <strong>Hideyuki Doi</strong>, and Nataliya I. Yurlova (2009) Contribution of organic matter sources to cyprinid fishes in the Chany Lake-Kargat River estuary, western Siberia. <em>Marine and Freshwater Research</em> 60:510-518.",
+   "doi": "10.1071/MF08108",
+   "source": "jimdo"
+  },
+  {
+   "id": "41",
+   "year": 2009,
+   "type": "article",
+   "html": "Izumi Katano, <strong>Hideyuki Doi</strong>, and Tadashi Oishi (2009) Upstream resource abundance determines the food searching behavior of a stream grazer: Effect of microalgal cues. <em>Limnology and Oceanography</em> 54:1162-1166.",
+   "doi": "10.4319/lo.2009.54.4.1162",
+   "source": "jimdo"
+  },
+  {
+   "id": "40",
+   "year": 2009,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, and Eisuke Kikuchi (2009) Conservation and research in extreme environments. <em>Frontiers in Ecology and the Environment</em> 7:239.",
+   "doi": "10.1890/09.WB.014",
+   "source": "jimdo"
+  },
+  {
+   "id": "39",
+   "year": 2009,
+   "type": "article",
+   "html": "Izumi Katano, Junjiro N. Negishi, Tomoko Minagawa, <strong>Hideyuki Doi</strong>, Yôichi Kawaguchi, and Yuichi Kayaba (2009) Longitudinal macroinvertebrate organization over contrasting discontinuities: effects of a dam and a tributary. <em>Journal of the North American Benthological Society</em> 28:331-351.",
+   "doi": "10.1899/08-010.1",
+   "source": "jimdo"
+  },
+  {
+   "id": "38",
+   "year": 2009,
+   "type": "article",
+   "html": "Kwang-Hyeon Chang, <strong>Hideyuki Doi</strong>, Yuichiro Nishibe, Yumiko Obayashi, and Shin-ichi Nakano (2009) Spatial and temporal distribution of zooplankton communities of coastal marine waters receiving different human activities (fish and pearl oyster farmings). <em>The Open Marine Biology Journal</em> 3:83-88.",
+   "doi": "10.2174/1874450800903010083",
+   "source": "jimdo"
+  },
+  {
+   "id": "37",
+   "year": 2009,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Masatoshi Matsumasa, Mamoru Fujikawa, Keiichi Kanou, Takao Suzuki, and Eisuke Kikuchi (2009) Macroalgae and seagrass contribution to gastropods in sub-tropic and temperate tidal flats. <em>Journal of the Marine Biological Association of the United Kingdom</em> 89:399-404.",
+   "doi": "10.1017/S0025315408002683",
+   "source": "jimdo"
+  },
+  {
+   "id": "36",
+   "year": 2009,
+   "type": "article",
+   "html": "Chitoshi Mizota, <strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shuichi Shikano, Takeshi Kakegawa, Natalia I. Yurlova, and A. I. Yurlova (2009) Stable isotopic characterization of fluids from Lake Chany Complex, western Siberia, Russia. <em>Applied Geochemistry</em> 24:319-327.",
+   "doi": "10.1016/j.apgeochem.2008.10.009",
+   "source": "jimdo"
+  },
+  {
+   "id": "35",
+   "year": 2009,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2009) Spatial patterns of autochthonous and allochthonous resources in aquatic food webs. <em>Population Ecology</em> 51:57-64.",
+   "doi": "10.1007/s10144-008-0127-z",
+   "source": "jimdo"
+  },
+  {
+   "id": "34",
+   "year": 2009,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kwang-Hyeon Chang, Takamitsu Ando, Hiroyuki Imai, Ippei Ninomiya, and Shin-ichi Nakano (2009) Resource availability and ecosystem size predict food-chain lengths in pond ecosystems. <em>Oikos</em> 118:138-144.",
+   "doi": "10.1111/j.1600-0706.2008.17171.x",
+   "source": "jimdo"
+  },
+  {
+   "id": "33",
+   "year": 2008,
+   "type": "article",
+   "html": "Motomi Genkai-Kato, Miyuki Onishi, <strong>Hideyuki Doi</strong>, Kentaro Nozaki, Hitoshi Miyasaka, and Koji Omori (2008) Photosynthetic property of phytoplankton and their primary production on a sublittoral sand bank off Hojo, Ehime. <em>Ecological Research</em> 23:1025-1032.",
+   "doi": "10.1007/s11284-008-0472-6",
+   "source": "jimdo"
+  },
+  {
+   "id": "32",
+   "year": 2008,
+   "type": "article",
+   "html": "Kwang-Hyeon Chang, <strong>Hideyuki Doi</strong>, Hiroyuki Imai, Fusako Gunji, and Shin-ichi Nakano (2008) Longitudinal changes in zooplankton distribution below a reservoir outfall with reference to river planktivory. <em>Limnology</em> 9:125-133.",
+   "doi": "10.1007/s10201-008-0244-6",
+   "source": "jimdo"
+  },
+  {
+   "id": "31",
+   "year": 2008,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2008) Delayed phenological timing of dragonfly emergence in Japan over five decades. <em>Biology Letters</em> 4:388-391.",
+   "doi": "10.1098/rsbl.2008.0234",
+   "source": "jimdo"
+  },
+  {
+   "id": "30",
+   "year": 2008,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Oscar Gordo, and Izumi Katano (2008) Heterogeneous intra-annual climatic changes drive different phenological responses in two trophic levels. <em>Climate Research</em> 36:181-190.",
+   "doi": "10.3354/cr00741",
+   "source": "jimdo"
+  },
+  {
+   "id": "29",
+   "year": 2008,
+   "type": "article",
+   "html": "Kayoko Fukumori, Misa Oi, <strong>Hideyuki Doi</strong>, Daisuke Takahashi, Noboru Okuda, Todd W. Miller, Michinobu Kuwae, Hitoshi Miyasaka, Motomi Genkai-Kato, Yoshitsugu Koizumi, Koji Omori, and Hidetaka Takeoka (2008) Bivalve tissue as a carbon and nitrogen isotope baseline indicator in coastal ecosystems. <em>Estuarine, Coastal and Shelf Science</em> 79:45-50.",
+   "doi": "10.1016/j.ecss.2008.03.004",
+   "source": "jimdo"
+  },
+  {
+   "id": "28",
+   "year": 2008,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, and Mayumi Takahashi (2008) Latitudinal patterns in phenological responses of leaf colouring and leaf fall to climate change in Japan. <em>Global Ecology and Biogeography</em> 17:556-561.",
+   "doi": "10.1111/j.1466-8238.2008.00398.x",
+   "notes": [
+    "Featured by <a href=\"http://www.bbc.com/earth/story/20140929-why-is-autumn-changing\">BBC Earth</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "27",
+   "year": 2008,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kwang-Hyeon Chang, Takamitsu Ando, Hiroyuki Imai, Shin-ichi Nakano, Akio Kajimoto, and Izumi Katano (2008) Drifting plankton from a reservoir subsidize downstream food webs and alter community structure. <em>Oecologia</em> 156: 363-371.",
+   "doi": "10.1007/s00442-008-0988-z",
+   "source": "jimdo"
+  },
+  {
+   "id": "26",
+   "year": 2008,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, and Izumi Katano (2008) Distribution patterns of stream grazers and relationships between grazers and periphyton at multiple spatial scales. <em>Journal of the North American Benthological Society</em> 27:295–303.",
+   "doi": "10.1899/07-067.1",
+   "source": "jimdo"
+  },
+  {
+   "id": "25",
+   "year": 2008,
+   "type": "article",
+   "html": "Hitoshi Miyasaka, Motomi Genkai-Kato, Yo Miyake, Daisuke Kishi, Izumi Katano, <strong>Hideyuki Doi</strong>, Shin-ya Ohba, and Naotoshi Kuhara (2008) Relationships between length and weight of freshwater macroinvertebrates in Japan. <em>Limnology</em> 9:75-80.",
+   "doi": "10.1007/s10201-008-0238-4",
+   "source": "jimdo"
+  },
+  {
+   "id": "24",
+   "year": 2008,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, and Izumi Katano (2008) Phenological timing of leaf budburst with climate change in Japan. <em>Agricultural and Forest Meteorology</em> 148:512-516.",
+   "doi": "10.1016/j.agrformet.2007.10.002",
+   "source": "jimdo"
+  },
+  {
+   "id": "23",
+   "year": 2008,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Natalia I. Yurlova, Svetlana N. Vodyanitskaya, Eisuke Kikuchi, Shuichi Shikano, Elena I. Zuykova, and Elena N. Yadrenkina (2008) Parasite-induced changes in nitrogen isotope signatures of host tissues. <em>Journal of Parasitology</em> 94:292-295.",
+   "doi": "10.1645/GE-1228.1",
+   "source": "jimdo"
+  },
+  {
+   "id": "22",
+   "year": 2008,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Kwang-Hyeon Chang, Yumiko Obayashi, Mizuho Yoshihara, Mary Shime, Takako Yamamoto, Yuichiro Nishibe, and Shin-ichi Nakano (2008) Attached microalgae contribute to planktonic food webs in bays with fish and pearl oyster farms. <em>Marine Ecology Progress Series</em> 354:123-132.",
+   "doi": "10.3354/meps07202",
+   "source": "jimdo"
+  },
+  {
+   "id": "21",
+   "year": 2008,
+   "type": "article",
+   "html": "Kayoko Fukumori, Misa Oi, <strong>Hideyuki Doi</strong>, Noboru Okuda, Hitomi Yamaguchi, Michinobu Kuwae, Hitoshi Miyasaka, Kenji Yoshino, Yoshitsugu Koizumi, Koji Omori, and Hidetaka Takeoka (2008) Food sources of the pearl oyster in coastal ecosystems of Japan: Evidence from diet and stable isotope analysis. <em>Estuarine, Coastal and Shelf Science</em> 76:704-709.",
+   "doi": "10.1016/j.ecss.2007.07.046",
+   "source": "jimdo"
+  },
+  {
+   "id": "20",
+   "year": 2007,
+   "type": "article",
+   "html": "Izumi Katano<sup>*</sup>, <strong>Hideyuki Doi</strong>, Akiko Houki, Yu Isobe, and Tadashi Oishi (2007) Changes in periphyton abundance and community structure with the dispersal of a caddisfly grazer, <em>Micrasema quadriloba</em>. <em>Limnology</em> 8:219-226.",
+   "doi": "10.1007/s10201-007-0211-7",
+   "notes": [
+    "<sup>*</sup>Corresponding author",
+    "Awarded the Yoshimura Award of Japanese Society of Limnology"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "19",
+   "year": 2007,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Yasuhiro Takemon, Taichi Ohta, Yuko Ishida and Eisuke Kikuchi (2007) Effects of reach scale canopy cover on trophic pathways of caddisfly larvae in a Japanese mountain stream. <em>Marine and Freshwater Research</em> 58:811–817.",
+   "doi": "10.1071/MF07067",
+   "notes": [
+    "Featured as back-cover photo of the issue"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "18",
+   "year": 2007,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong> (2007) Winter flowering phenology of Japanese apricot <em>Prunus mume</em> reflects climate change across Japan. <em>Climate Research</em> 34:99-104.",
+   "doi": "10.3354/cr034099",
+   "notes": [
+    "Featured by <a href=\"http://www.bbc.com/earth/story/20140929-why-is-autumn-changing\">BBC Earth</a>"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "17",
+   "year": 2007,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Atsushi Takagi, and Eisuke Kikuchi (2007) Stream macroinvertebrate community affected by point-source metal pollution. <em>International Review of Hydrobiology</em> 92:258-266.",
+   "doi": "10.1002/iroh.200610923",
+   "source": "jimdo"
+  },
+  {
+   "id": "16",
+   "year": 2007,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shigeto Takagi, and Shuichi Shikano (2007) Changes in carbon and nitrogen stable isotopes of chironomid larvae during growth, starvation and metamorphosis. <em>Rapid Communications in Mass Spectrometry</em> 21:997-1002.",
+   "doi": "10.1002/rcm.2925",
+   "source": "jimdo"
+  },
+  {
+   "id": "15",
+   "year": 2006,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Atsushi Takagi, Chitoshi Mizota, Jun-ichi Okano, Shin-ichi Nakano and Eisuke Kikuchi (2006) Contribution of chemoautotrophic productions to freshwater macroinvertebrates in a headwater stream using multiple stable isotopes. <em>International Review of Hydrobiology</em> 91:501-508.",
+   "doi": "10.1002/iroh.200610898",
+   "source": "jimdo"
+  },
+  {
+   "id": "14",
+   "year": 2006,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Elena Zuykova, Eisuke Kikuchi, Shuichi Shikano, Keiichi Kanou, Natalia Yurlova, and Elena Yadrenkina (2006) Spatial changes in carbon and nitrogen stable isotope of the plankton food web in a saline lake ecosystem. <em>Hydrobiologia</em> 571:395-400.",
+   "doi": "10.1007/s10750-006-0205-1",
+   "source": "jimdo"
+  },
+  {
+   "id": "13",
+   "year": 2006,
+   "type": "article",
+   "html": "Elena I. Zuykova, <strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shuichi Shikano, and Natalia Yurlova (2006) The zooplankton of Lake Chany, West Siberia, Russia. <em>Journal of Freshwater Ecology</em> 21:181-182.",
+   "doi": "10.1080/02705060.2006.9664112",
+   "source": "jimdo"
+  },
+  {
+   "id": "12",
+   "year": 2006,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shigeto Takagi, and Shuichi Shikano (2006) Selective assimilation by deposit feeders: Experimental evidence using stable isotope ratios. <em>Basic and Applied Ecology</em> 7:159-166.",
+   "doi": "10.1016/j.baae.2005.04.011",
+   "source": "jimdo"
+  },
+  {
+   "id": "11",
+   "year": 2006,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Izumi Katano, and Eisuke Kikuchi (2006) The use of algal-mat habitat by aquatic insect grazers: effects of microalgal cue. <em>Basic and Applied Ecology</em> 7:153-158.",
+   "doi": "10.1016/j.baae.2005.04.009",
+   "source": "jimdo"
+  },
+  {
+   "id": "10",
+   "year": 2005,
+   "type": "article",
+   "html": "Shuichi Shikano, Eisuke Kikuchi, Shigeto Takagi, and <strong>Hideyuki Doi</strong> (2005) Interannual variations of limnological and ecological characteristics in acidic Lake Katanuma. <em>Korean Journal of Limnology (Special Issue)</em> 38: 435-438.",
+   "source": "jimdo"
+  },
+  {
+   "id": "9",
+   "year": 2005,
+   "type": "article",
+   "html": "Shigeto Takagi, Eisuke Kikuchi, <strong>Hideyuki Doi</strong>, and Shuichi Shikano (2005) Swimming behavior of <em>Chironomus acerbiphilus</em> larvae in Lake Katanuma. <em>Hydrobiologia</em> 548:153-165.",
+   "doi": "10.1007/s10750-005-5196-9",
+   "source": "jimdo"
+  },
+  {
+   "id": "8",
+   "year": 2005,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Masatoshi Matsumasa, Terumasa Toya, Nobuya Satoh, Chitoshi Mizota, Yonosuke Maki, and Eisuke Kikuchi (2005) Spatial shifts in food sources for macrozoobenthos in an estuarine ecosystem: Carbon and nitrogen stable isotope analyses. <em>Estuarine, Coastal and Shelf Science</em> 64:316-322.",
+   "doi": "10.1016/j.ecss.2005.02.028",
+   "source": "jimdo"
+  },
+  {
+   "id": "7",
+   "year": 2005,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shigeto Takagi, and Shuichi Shikano (2005) Carbon stable isotope ratios of phytoplankton and benthic diatoms in Lake Katanuma with reference to those of other lakes. <em>Korean Journal of Limnology (Special Issue)</em> 38:8-11.",
+   "source": "jimdo"
+  },
+  {
+   "id": "6",
+   "year": 2004,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Chitoshi Mizota, Nobuya Satoh, Shuichi Shikano, Natalia Yurlova, Elena Zuykova, and Elena Yadrenkina (2004) Carbon, nitrogen, and sulfur isotope changes and hydro-geological processes in a saline lake chain. <em>Hydrobiologia</em> 529:225-235.",
+   "doi": "10.1007/s10750-004-6418-2",
+   "source": "jimdo"
+  },
+  {
+   "id": "5",
+   "year": 2004,
+   "type": "article",
+   "html": "Shuichi Shikano, Eisuke Kikuchi, Shigeto Takagi, and <strong>Hideyuki Doi</strong> (2004) Volcanic heat flux and short-term holomixis during the summer stratification period in a crater lake. <em>Limnology and Oceanography</em> 49:2287-2292.",
+   "doi": "10.4319/lo.2004.49.6.2287",
+   "source": "jimdo"
+  },
+  {
+   "id": "4",
+   "year": 2004,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shuichi Shikano, and Shigeto Takagi (2004) A study of nitrogen stable isotope dynamics of phytoplankton in a simple natural ecosystem. <em>Aquatic Microbial Ecology</em> 36:285-291.",
+   "doi": "10.3354/ame036285",
+   "source": "jimdo"
+  },
+  {
+   "id": "3",
+   "year": 2003,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shuji Hino, Takeru Itoh, Shigeto Takagi, and Shuichi Shikano (2003) Seasonal dynamics of carbon stable isotope ratios of particulate organic matter and benthic diatoms in strongly acidic Lake Katanuma. <em>Aquatic Microbial Ecology</em> 33:87-94.",
+   "doi": "10.3354/ame033087",
+   "source": "jimdo"
+  },
+  {
+   "id": "2",
+   "year": 2003,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Eisuke Kikuchi, Shuji Hino, Takeru Itoh, Shigeto Takagi, and Shuichi Shikano (2003) Isotopic (δ13C) evidence for autochthonous origin of sediment organic matter in small, acidic Lake Katanuma, Japan. <em>Marine and Freshwater Research</em> 54:253-257.",
+   "doi": "10.1071/MF02035",
+   "source": "jimdo"
+  },
+  {
+   "id": "1",
+   "year": 2001,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong><sup>*</sup>, Eisuke Kikuchi, and Shuichi Shikano (2001) Carbon and nitrogen stable isotope ratios analysis of food sources for <em>Chironomus acerbiphilus</em> larvae (Diptera Chironomidae) in strongly acidic Lake Katanuma. <em>Radioisotopes</em> 50:601-610.",
+   "doi": "10.3769/radioisotopes.50.12_601",
+   "notes": [
+    "<sup>*</sup>Corresponding author",
+    "Awarded Radioisotopes Journal award"
+   ],
+   "source": "jimdo"
+  },
+  {
+   "id": "J8",
+   "year": 2020,
+   "type": "japanese",
+   "html": "Katsuyuki Tanaka, Shigenari Miyawaki, Yuichi Mizumori, Yasumitsu Kato, Mariko Nagano, and <strong>Hideyuki Doi</strong> (2020) Environmental DNA analysis of invasive aquatic plant, <em>Egeria densa</em>, in the Oota River, Japan. <em>Ecology and Civil Engineering</em> 23:59-68 (in Japanese).",
+   "source": "researchmap-check",
+   "doi": "10.3825/ece.23.59"
+  },
+  {
+   "id": "J7",
+   "year": 2018,
+   "type": "japanese",
+   "html": "Yoshihisa Akamatsu, Yutaka Watanabe, Naoyuki Hirasaka, <strong>Hideyuki Doi</strong>, Masuji Goto, Takashi Komuro, Ryutei Inui, and Takanori Kono (2018) 河川・湖沼における採水ドローンの開発と実用性の検証. <em>Advances in River Engineering (河川技術論文集)</em> 24:13-18 (in Japanese).",
+   "source": "researchmap-check"
+  },
+  {
+   "id": "J6",
+   "year": 2014,
+   "type": "japanese",
+   "html": "<strong>Hideyuki Doi</strong> (2014) Comment: “Four color issue” in ecology. <em>Japanese Journal of Ecology</em> 64:151-152 (in Japanese).",
+   "source": "researchmap-check",
+   "doi": "10.18960/seitai.64.2_151"
+  },
+  {
+   "id": "J5",
+   "year": 2014,
+   "type": "japanese",
+   "html": "<strong>Hideyuki Doi</strong> (2014) Comment: Food web theories and mass extinction. <em>Japanese Journal of Ecology</em> 64:77-78 (in Japanese).",
+   "source": "researchmap-check",
+   "doi": "10.18960/seitai.64.1_77"
+  },
+  {
+   "id": "J4",
+   "year": 2011,
+   "type": "japanese",
+   "html": "<strong>Hideyuki Doi</strong> and Hiroshi Okamura (2011) Similarity indices, ordination, and community analysis tests using the software R. <em>Japanese Journal of Ecology</em> 61:3-20 (in Japanese).",
+   "source": "researchmap-check",
+   "doi": "10.18960/seitai.61.1_3"
+  },
+  {
+   "id": "J3",
+   "year": 2010,
+   "type": "japanese",
+   "html": "Izumi Katano, Junjiro N. Negishi, Tomoko Minagawa, <strong>Hideyuki Doi</strong>, and Yuichi Kayaba (2010) 土砂還元によるダム下流域の修復効果検証のための指標種の抽出. <em>Advances in River Engineering (河川技術論文集)</em> 16:519-525 (in Japanese).",
+   "source": "researchmap-check"
+  },
+  {
+   "id": "J2",
+   "year": 2010,
+   "type": "japanese",
+   "html": "<strong>Hideyuki Doi</strong> and Mayumi Takahashi (2010) Macro-scale investigation of climate change effect on plant phenological timings using the phenological dataset of the Japan Meteorological Agency. <em>Japanese Journal of Ecology</em> 60:241-247 (in Japanese).",
+   "source": "researchmap-check",
+   "doi": "10.18960/seitai.60.2_241"
+  },
+  {
+   "id": "J1",
+   "year": 2002,
+   "type": "japanese",
+   "html": "<strong>Hideyuki Doi</strong>, and Eisuke Kikuchi (2002) Analysis of food sources for <em>Chironomus acerbiphilus</em> larvae in strongly acidic Lake Katanuma. <em>Japanese Journal of Limnology</em> 63:160-162 (in Japanese).",
+   "doi": "10.3739/rikusui.63.155",
+   "source": "jimdo"
+  },
+  {
+   "id": "B7",
+   "year": 2022,
+   "type": "book",
+   "html": "<strong>Hideyuki Doi</strong> (2022) Real-time and digital PCR for environmental DNA methods estimating aquatic organisms' distributions (in Japanese). <strong>土居秀幸</strong> リアルタイムPCR・デジタルPCRを用いた環境DNAによる水生生物の生息把握. 北條浩彦 編『リアルタイム・デジタルPCR実験スタンダード』羊土社 2022年.",
+   "url": "https://www.yodosha.co.jp/yodobook/book/9784758122573/",
+   "source": "jimdo"
+  },
+  {
+   "id": "B6",
+   "year": 2021,
+   "type": "book",
+   "html": "<strong>Hideyuki Doi</strong> and Michio Kondoh (eds.) (2021) Environmental DNA: Revealing the Nature of Ecosystem. Kyoritsu Press (in Japanese). <strong>土居秀幸</strong>・近藤倫生 編（一般社団法人環境DNA学会 企画）『環境DNA：生態系の真の姿を読み解く』共立出版 2021年.",
+   "url": "https://www.kyoritsu-pub.co.jp/bookdetail/9784320058163",
+   "source": "jimdo"
+  },
+  {
+   "id": "B5",
+   "year": 2019,
+   "type": "book",
+   "html": "<strong>Hideyuki Doi</strong>, Naoto F. Ishikawa and Tamihisa Ohta (2019) Stable isotope analysis. Field and analytical methods in stream ecology, Koudansya (in Japanese). <strong>土居秀幸</strong>・石川尚人・太田民久「安定同位体分析」、加賀谷隆・<strong>土居秀幸</strong>「外来性有機物」 井上幹生・中村太士 編『河川生態系の調査・分析方法』講談社 2019年.",
+   "url": "https://www.kspub.co.jp/book/detail/5169995.html",
+   "source": "jimdo"
+  },
+  {
+   "id": "B4",
+   "year": 2018,
+   "type": "book",
+   "html": "<strong>Hideyuki Doi</strong>, Izumi Katano and Kouji Tojo (2018) Environmental DNA analysis for aquatic Hemiptera. Biology of aquatic Hemiptera, Hokuryukan (in Japanese). <strong>土居秀幸</strong>・片野泉・東城幸治「水生半翅類調査への環境DNAの適用」 大庭伸也 編 環境Eco選書(13)『水生半翅類の生物学』北隆館 2018年.",
+   "source": "jimdo"
+  },
+  {
+   "id": "B3",
+   "year": 2016,
+   "type": "book",
+   "html": "<strong>Hideyuki Doi</strong>, Fujio Hyodo and Naoto Ishikawa (2016) Analysis of diets and food webs using stable isotopes. Handbook of Methods in Ecological Research 6, Kyoritsu Press (in Japanese). <strong>土居秀幸</strong>・兵藤不二夫・石川尚人「安定同位体を用いた餌資源・食物網調査法」 占部城太郎・日浦勉・辻和希 編 生態学フィールド調査法シリーズ 第6巻 共立出版 2016年.",
+   "url": "http://www.kyoritsu-pub.co.jp/bookdetail/9784320057548",
+   "source": "jimdo"
+  },
+  {
+   "id": "B2",
+   "year": 2012,
+   "type": "book",
+   "html": "<strong>Hideyuki Doi</strong>, and Izumi Katano (2012) Chapter 6, Ecology Series 9, Kyoritsu Press (in Japanese). <strong>土居秀幸</strong>・片野泉 第6章「河川生態系の被食ー捕食関係と食物網」 シリーズ現代の生態学 第9巻『淡水生態学のフロンティア』吉田丈人・鏡味麻衣子・加藤元海 編 共立出版 2012年.",
+   "source": "jimdo"
+  },
+  {
+   "id": "B1",
+   "year": 2008,
+   "type": "book",
+   "html": "<strong>Hideyuki Doi</strong> (2008) Chapter 2, Community Ecology Series 4, Kyoto University Press (in Japanese). <strong>土居秀幸</strong> 第2章「生物群集が支える湖沼生態系の物質循環」 シリーズ群集生態学4『生態系と群集をむすぶ』大串隆之・近藤倫生・仲岡雅裕 編 京都大学学術出版会 2008年.",
+   "source": "jimdo"
+  }
+ ]
+}

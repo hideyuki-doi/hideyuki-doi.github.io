@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en" data-site-theme="{{THEME}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hide Doi | Biosphere Informatics Lab., Kyoto University</title>
+<meta name="description" content="土居秀幸（京都大学大学院情報学研究科 生物圏情報学講座）のウェブサイト：研究内容、研究業績など。Hideyuki Doi, Biosphere Informatics Lab., Graduate School of Informatics, Kyoto University.">
+<meta property="og:title" content="Hide Doi">
+<meta property="og:description" content="Biosphere Informatics Lab., Graduate School of Informatics, Kyoto University">
+<meta property="og:type" content="website">
+<meta name="google-site-verification" content="NZ4zG21MY9kd0TLSKCDoPhldkKJyXGVOHEOuqrNYdlg">
+<link rel="icon" type="image/png" href="{{IMG:favicon}}">
+<link rel="apple-touch-icon" href="{{IMG:touch-icon}}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="{{FONTS}}" rel="stylesheet">
+<script>document.documentElement.classList.add('js')</script>
+<style>{{STYLE}}</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site-head">
+  <a class="brand" href="#home" aria-label="Hide Doi, home">
+    <img src="{{IMG:mark}}" alt="" class="brand-logo" width="300" height="283" data-fallback>
+    <span class="brand-text">Hide Doi<span class="brand-sub">Biosphere Informatics Lab., Kyoto University</span></span>
+  </a>
+  <nav aria-label="Main">
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#lab" lang="ja">研究室紹介</a></li>
+      <li><a href="#members">Members</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#cv">CV</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <div class="head-extra">
+    <p class="head-contact">hideyuki.doi (at) icloud.com<br>Graduate School of Informatics, Kyoto University<br>Yoshida-honmachi, Sakyo-ku, Kyoto 606-8501</p>
+  </div>
+</header>
+
+<main id="main">
+
+<!-- ================= HOME ================= -->
+{{HOME}}
+
+<!-- ================= RESEARCH ================= -->
+<section id="research" class="view wrap prose-page" data-view="research" aria-labelledby="research-title">
+  <div class="page-head">
+    <div class="head-photos" aria-hidden="true"><img class="hp hp-1" src="{{IMG:photo-lake}}" alt="" loading="lazy" data-fallback><img class="hp hp-2" src="{{IMG:photo-mangrove}}" alt="" loading="lazy" data-fallback></div>
+    <h2 id="research-title" class="page-title">Research</h2>
+    <div class="lang-switch" role="group" aria-label="Language">
+      <button type="button" data-lang-btn="en" aria-pressed="true">English</button>
+      <button type="button" data-lang-btn="ja" aria-pressed="false" lang="ja">日本語</button>
+    </div>
+  </div>
+  <p class="research-lead" data-lang="en">We study ecology at its boundary with informatics, looking for general rules in nature, from bacteria to large mammals and from ponds to the deep sea. Combining statistical modelling, nonlinear time-series analysis and large-scale data integration, our work runs along the four themes below. All papers are listed on the <a href="#publications">Publications</a> page.</p>
+  <p class="research-lead" data-lang="ja" lang="ja">生態学と情報学の境界で、バクテリアから大型哺乳類まで、ため池から深海まで、生物と生態系に共通するルールを探しています。統計モデリング、非線形時系列解析、大規模データ解析を組み合わせた研究は、以下の4つのテーマに分かれます。すべての論文は<a href="#publications">Publications</a>をご覧ください。</p>
+
+  <article id="research-bigdata" class="theme">
+    <div class="theme-icon">{{PART:icon-bigdata}}</div>
+    <h3 data-lang="en">Large-scale data for biology</h3>
+    <h3 data-lang="ja" lang="ja">大規模データで生物学の一般則を探る</h3>
+    <p data-lang="en">Using species records, DNA sequences, satellite images, long-term observations and thousands of published studies, we look for general rules of biology across fields with statistical modelling, machine learning and nonlinear time-series analysis, from estimating species richness and biodiversity and analysing communities, to linking livestock and biodiversity data in agriculture and mapping life from the deep sea to cities.</p>
+    <p data-lang="ja" lang="ja">種の記録、DNA配列、衛星画像、長期観測データ、膨大な既存研究などのデータを活用して、統計モデリング、機械学習、非線形時系列解析により、分野を越えた生物学の一般則を探っています。種数・生物多様性の推定や群集解析から、農学における家畜と生物多様性データの統合、深海から都市までの生物の分布まで、対象は多岐にわたります。</p>
+    <p data-lang="en">We aim to examine the universality of biological principles across diverse species (ranging from bacteria to large mammals) and ecological generalizations through the collection and meta-analysis of existing literature datasets. Our research focuses on key relationships such as metabolic rates relative to body size, net growth efficiency of elements, and ecological stoichiometry across taxa. We also test the generality of ecological theories using data on food-chain length, biological communities and more.</p>
+    <p data-lang="ja" lang="ja">様々な生物種（バクテリアから大型哺乳類まで）での生物学的な一般性や，生態学での一般的な命題について，既存文献データを収集してデータセットを作成し，メタ解析により検討しています。バクテリアから大型哺乳類までで変化する体サイズあたりの代謝量と元素に対する純成長効率，生態化学量論との関係について検討しています。また，食物連鎖長，群集データなどから生態学理論の一般性を検証しています。</p>
+    <ul class="theme-pubs"><li><a href="#publications" data-q="meta-analysis"><span data-lang="en">Papers using meta-analysis</span><span data-lang="ja" lang="ja">メタ解析の論文</span></a></li></ul>
+  </article>
+
+  <article id="research-community" class="theme">
+    <div class="theme-icon">{{PART:icon-community}}</div>
+    <h3 data-lang="en">Biological community</h3>
+    <h3 data-lang="ja" lang="ja">生物群集</h3>
+    <p data-lang="en">We analyse how biological communities of fish, plankton, fungi and microbes are assembled and how they change across space and time, through field surveys and metabarcoding by high-throughput sequencing of environmental DNA from water, sediment and soil.</p>
+    <p data-lang="ja" lang="ja">魚類・プランクトン・菌類・微生物などの生物群集が、どのように成り立ち、空間的・時間的にどう変化するのかを、野外調査や、環境DNA（水、堆積物、土壌）からの超並列シークエンスによるメタバーコーディングなどによって解析しています。</p>
+    <ul class="theme-pubs"><li><a href="#publications" data-q="communit"><span data-lang="en">Papers on biological communities</span><span data-lang="ja" lang="ja">生物群集の論文</span></a></li><li><a href="#publications" data-q="environmental DNA"><span data-lang="en">Papers on environmental DNA</span><span data-lang="ja" lang="ja">環境DNAの論文</span></a></li></ul>
+  </article>
+
+  <article id="research-climate" class="theme">
+    <div class="theme-icon">{{PART:icon-climate}}</div>
+    <h3 data-lang="en">Climate change biology</h3>
+    <h3 data-lang="ja" lang="ja">気候変動と生態系の応答</h3>
+    <p data-lang="en">Although rapid climate changes, such as global warming, are anticipated, their impacts on ecosystems remain insufficiently understood. To address this, we study the response of plant and animal phenology to climate change across Japan using long-term datasets, including phenological observations from the Japan Meteorological Agency. From a macroecological perspective, we have elucidated relationships between latitude and climate change responses, as well as regional variations in genetic diversity and climate adaptability. Furthermore, we explore the effects of phenological mismatches on interacting systems, such as the timing of flowering and pollinator emergence or host-parasite population dynamics.</p>
+    <p data-lang="ja" lang="ja">温暖化など急激な気候変動が予測されていますが，生態系が気候変動の影響にどのように応答するかはまだほとんど明らかになっていません。そこで，気象庁の生物季節観測データなどの長期観測データセットを用いて，日本全国での植物・動物のフェノロジーの気候変動への応答について研究を進めています。特にマクロ生態学的な視点から，緯度と気候変動への応答との関係や，遺伝的多様性と気候への応答の地域変異について明らかにしました。また，開花ーポリネーター出現の時期や，宿主ー寄生虫個体群動態などからフェノロジーのミスマッチが相互作用系に与える影響についても検討しています。</p>
+    <ul class="theme-pubs"><li><a href="#publications" data-q="phenolog"><span data-lang="en">Papers on phenology and climate change</span><span data-lang="ja" lang="ja">フェノロジー・気候変動の論文</span></a></li></ul>
+  </article>
+
+  <article id="research-foodweb" class="theme">
+    <div class="theme-icon">{{PART:icon-foodweb}}</div>
+    <h3 data-lang="en">Food webs</h3>
+    <h3 data-lang="ja" lang="ja">食物網</h3>
+    <p data-lang="en">Food webs, which illustrate predator-prey interactions, are foundational for understanding ecosystem structure and function. These interactions influence community dynamics, ecosystem processes, and services. One crucial food web attribute, food chain length (the number of trophic levels from producers to top predators), has been a topic of extensive research and debate. We conduct field studies to test hypotheses related to food chain length using stable isotope analysis. Additionally, our research investigates the temporal and spatial structures of food webs, nutrient cycling, and material flow in diverse aquatic ecosystems, including lakes, rivers, tidal flats, and coastal regions, to deepen our understanding of food web dynamics.</p>
+    <p data-lang="ja" lang="ja">食物網は，生物の被食ー捕食の相互作用を記述した基本的な構造で，生物群集や生態系機能・サービスなど生態系の機能と構造の多くを規定しています。食物網構造を表す重要な指標の一つである食物連鎖長（生産者から最上位捕食者までの栄養段階の長さ）については，今まで多くの議論が重ねられ，どのように食物連鎖長が規定されているのかについて多くの仮説が提案されています。そこで，安定同位体比を用いて食物連鎖長がどのようにして規定されているのかについて，様々な仮説の野外での検証を行っています。食物網の空間構造と栄養補償，物質循環などに着目して，湖沼・河川・干潟・沿岸海洋などのさまざまな水圏生態系において，安定同位体比などを用いて，食物網の時間的・空間的な構造とその動態について研究を進めています。</p>
+    <ul class="theme-pubs"><li><a href="#publications" data-q="food web"><span data-lang="en">Papers on food webs</span><span data-lang="ja" lang="ja">食物網の論文</span></a></li></ul>
+  </article>
+</section>
+
+<!-- ================= LAB (JA) ================= -->
+<section id="lab" class="view wrap prose-page" data-view="lab" lang="ja" aria-labelledby="lab-title">
+  <div class="page-head">
+    <div class="head-photos" aria-hidden="true"><img class="hp hp-1" src="{{IMG:photo-flasks}}" alt="" loading="lazy" data-fallback><img class="hp hp-2" src="{{IMG:photo-server}}" alt="" loading="lazy" data-fallback></div>
+    <h2 id="lab-title" class="page-title">研究室紹介</h2>
+  </div>
+
+  <div class="recruit">
+    <p class="recruit-lead">大学院博士前期・博士後期課程の学生を大募集中です。ポスドク（日本学術振興会特別研究員PDなど）も大募集中です。</p>
+    <p>京都大学 大学院情報学研究科 社会情報学コース <a href="https://bre.soc.i.kyoto-u.ac.jp">生物圏情報学講座</a>に所属しています。研究内容や学生のテーマ、入試情報は以下を参照してください。研究室に興味がある方は、メール（hideyuki.doi (at) icloud.com）までご連絡ください。</p>
+    <p class="small">生物圏情報学講座へのお問い合わせは breoffice (at) mail2.adm.kyoto-u.ac.jp までご連絡ください。</p>
+  </div>
+
+  <h3>大学院入試</h3>
+  <p>京都大学大学院情報学研究科 修士課程・博士後期課程の入試情報は<a href="https://www.i.kyoto-u.ac.jp/admission.html">研究科のページ</a>をご覧ください。大学院入試に興味がある方は、メール（hideyuki.doi (at) icloud.com）までご連絡ください。</p>
+  <p>学部については、京都大学農学部 資源生物科学科 応用動物科学コースから学生を受け入れています。</p>
+
+  <h3>研究内容</h3>
+  <p>現在では、生物多様性の減少、過度の開発、気候変動などの影響によって、生態系が大きく改変されつつあります。人間社会の持続的な発展のためには、生態系がこのような環境変動によってその機能や構造をどのように変化させるかについて明らかにする必要があります。</p>
+  <dl class="lab-themes">
+    <dt>大規模データを用いた資源生物科学・生態学の探究に関する研究</dt>
+    <dd>生物資源の維持管理を含めた食糧問題、世界的な生態系の動態などを検討するため、地理情報、衛星情報、DNAデータベースなどの大規模データを用いて、資源生物科学・生物学・生態学に関する基礎的・応用的なさまざまな命題についてアプローチしています。</dd>
+    <dt>環境変動と生物多様性・生物資源の応答に関する研究</dt>
+    <dd>気候変動をはじめとした環境変動により、資源生物を含めた多くの生物においてその動態、生息域、生物季節などに変化がみられます。今後の更なる環境変動により、生物がどのような応答を示すかを予測する研究をおこなっています。</dd>
+  </dl>
+
+
+  <div class="gallery">
+    <figure><img src="{{IMG:lab-1}}" alt="研究室の様子" loading="lazy" data-fallback></figure>
+    <figure><img src="{{IMG:lab-2}}" alt="研究室の様子" loading="lazy" data-fallback></figure>
+    <figure><img src="{{IMG:lab-3}}" alt="研究室の様子" loading="lazy" data-fallback></figure>
+    <figure><img src="{{IMG:lab-4}}" alt="研究室の様子" loading="lazy" data-fallback></figure>
+  </div>
+
+  <h3>学生の研究テーマ</h3>
+  <p class="small">学生の構成（2025年4月現在）：修士 3名（M2: 2名、M1: 1名）、博士後期 3名（D3: 1名、D2: 1名、D1: 1名）、研究生 1名</p>
+  <h4>これまでの学生の研究テーマ</h4>
+  <ul class="theses">
+    <li>葉の最適形質の探索：形状維持における構造力学解析</li>
+    <li>個体ベースモデルによる森林生態系の強風被害予測</li>
+    <li lang="en">Global simulation of insect meat production under climate change <a href="https://doi.org/10.3389/fsufs.2019.00091">論文</a></li>
+    <li>ダム河川における底生動物群集と機能多様性</li>
+    <li>日本全国の発電所分布と周辺環境との関係</li>
+    <li>衛星画像と機械学習による森林倒木被害の推定 <a href="https://doi.org/10.7717/peerj-cs.648">論文</a></li>
+    <li>空中環境DNAによる生物種の検出</li>
+    <li>堆積物環境DNAによる過去の生物群集復元</li>
+    <li>高次要因に着目したため池の微生物群集空間配置</li>
+    <li>生物行動の短期的変動の相関構造解析サロゲート法による類型化</li>
+    <li>生物種の嗅覚受容体多様性と機能との関係：線虫大規模データ解析から</li>
+    <li>環境中の細胞・遊離DNAを用いた環境DNA分解・減衰モデリング（博士後期） <a href="https://doi.org/10.3389/fevo.2021.623831">論文</a></li>
+    <li>集団行動をとった恐竜の生態的特徴を探る</li>
+    <li lang="en">Global spatial-factor analysis for Ecotourism development and distribution</li>
+    <li>環境DNA分析による別府湾堆積物を用いた1900年に遡る生物群集解析</li>
+    <li>雨水を活用した環境DNAによる林冠を対象とした生物群集解析</li>
+    <li>時系列基盤モデルを用いた湖沼プランクトン量の季節変動予測</li>
+    <li lang="en">Effects of Host-Dependent Niches and Biotic Constraints on Climate Change Driven Range Shifts in Anemonefish</li>
+    <li>スパースモデリングによる個体間の相互作用ネットワークの解明：群衆行動データ解析とシミュレーション</li>
+  </ul>
+</section>
+
+<!-- ================= MEMBERS ================= -->
+<section id="members" class="view wrap prose-page" data-view="members" aria-labelledby="members-title">
+  <div class="page-head">
+    <div class="head-photos" aria-hidden="true"><img class="hp hp-1" src="{{IMG:lab-1}}" data-alt="{{IMG:x-lake}}" alt="" loading="lazy" data-fallback><img class="hp hp-2" src="{{IMG:lab-2}}" data-alt="{{IMG:x-islands}}" alt="" loading="lazy" data-fallback></div><h2 id="members-title" class="page-title">Members</h2></div>
+
+  <div class="people">
+    <div class="person">
+      <p class="person-role">Principal investigator</p>
+      <p class="person-name"><a href="#cv">Hideyuki Doi</a></p>
+    </div>
+    <div class="person">
+      <p class="person-role">Program-Specific Assistant Professor</p>
+      <p class="person-name">Yurika Oba</p>
+    </div>
+    <div class="person">
+      <p class="person-role">JSPS Fellow</p>
+      <p class="person-name">Chuanqiao Zhou</p>
+    </div>
+    <div class="person">
+      <p class="person-role">Researcher</p>
+      <p class="person-name"><a href="https://t1r9o9m3b0o7n1e0.wixsite.com/website">Toshiaki S. Jo</a></p>
+    </div>
+    <div class="person">
+      <p class="person-role">and graduate students</p>
+    </div>
+  </div>
+
+  <h3>Former post-doc members</h3>
+  <table class="alumni">
+    <thead><tr><th scope="col">Name</th><th scope="col">In the lab</th><th scope="col">Currently</th></tr></thead>
+    <tbody>
+      <tr><td><a href="https://researchmap.jp/ryuhzin">Heungjin Ryu</a></td><td>Post-doc, 2024–2025</td><td>Assistant Professor, Biosphere Informatics Lab., Kyoto University</td></tr>
+      <tr><td><a href="https://otakey02.wixsite.com/otake-y">Yurie Otake</a></td><td>Post-doc, 2021–2022</td><td>Assistant Professor, Center for Ecological Research, Kyoto University</td></tr>
+      <tr><td><a href="https://researchmap.jp/matsuokax">Shunsuke Matsuoka</a></td><td>Post-doc and JSPS Research Fellow PD, 2016–2022</td><td>Lecturer, Field Science Education and Research Center, Kyoto University</td></tr>
+      <tr><td><a href="https://naganoma.wixsite.com/website">Mariko Nagano</a></td><td>Post-doc, 2016–2020</td><td>Lecturer, Kyoto University of Advanced Science</td></tr>
+      <tr><td><a href="https://researchmap.jp/yorikosugiyama">Yoriko Sugiyama</a></td><td>Research Assistant, 2017–2018</td><td>Assistant Professor, Field Science Education and Research Center, Kyoto University</td></tr>
+      <tr><td><a href="https://researchmap.jp/maz">Saeko Matsuhashi</a></td><td>Post-doc, 2013–2016</td><td>Researcher, National Agriculture and Food Research Organization</td></tr>
+      <tr><td><a href="https://sites.google.com/site/kimikouchii/">Kimiko Uchii</a></td><td>Post-doc, 2013–2014</td><td>Associate Professor, Faculty of Pharmacy, Osaka Ohtani University</td></tr>
+      <tr><td><a href="https://frogtadpole.jimdofree.com">Teruhiko Takahara</a></td><td>Post-doc, 2011–2013</td><td>Professor, Faculty of Life and Environmental Science, Shimane University</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Former students</h3>
+  <ul class="students">
+    <li>Christopher Rauch<span>Master course, 2024–2025</span></li>
+    <li>Tokiko Hosoda<span>Master course, 2024–2025</span></li>
+    <li>Asuka Matsushita<span>Master course, 2024–2025</span></li>
+    <li>Takumaru Miwa<span>Master course, 2022–2023</span></li>
+    <li>Chisato Numa<span>Master course, 2022–2023</span></li>
+    <li>Xu Xun<span>Master course, 2021–2022</span></li>
+    <li>Eri Asada<span>Master course, 2021–2022</span></li>
+    <li>Tatsuya Saito<span>Doctor course, 2019–2021</span></li>
+    <li>Hideyuki Takagi<span>Master course, 2020–2021</span></li>
+    <li>Takeshi Fujita<span>Master course, 2020–2021</span></li>
+    <li>Hiroki Nakajima<span>Master course, 2019–2020</span></li>
+    <li>Ryotaro Kaida<span>Master course, 2019–2020</span></li>
+    <li>Takahiro Kubo<span>Master course, 2019–2020</span></li>
+    <li>Tomoki Hirai<span>Master course, 2018–2019</span></li>
+    <li>Katsuyoshi Fujiwara<span>Master course, 2018–2019</span></li>
+    <li>Yuichi Mizumori<span>Master course, 2017–2018</span></li>
+    <li>Randy Nathaniel Mulia<span>Master course, 2016–2017</span></li>
+    <li>Shinji Sowa<span>Master course, 2015–2016</span></li>
+    <li>Yoshinori Takasugi<span>Master course, 2015–2016</span></li>
+  </ul>
+</section>
+
+<!-- ================= PUBLICATIONS ================= -->
+<section id="publications" class="view wrap" data-view="publications" aria-labelledby="pubs-title">
+  <div class="page-head">
+    <div class="head-photos" aria-hidden="true"><img class="hp hp-1" src="{{IMG:photo-sunset}}" alt="" loading="lazy" data-fallback><img class="hp hp-2" src="{{IMG:lab-3}}" data-alt="{{IMG:x-lake}}" alt="" loading="lazy" data-fallback></div>
+    <h2 id="pubs-title" class="page-title">Publications</h2>
+  </div>
+
+  <div class="pub-tools">
+    <label class="search">
+      <span class="visually-hidden">Search publications</span>
+      <input type="search" id="pub-search" placeholder="Search by title, author, journal or year" autocomplete="off">
+    </label>
+    <label class="year-jump">
+      <span class="visually-hidden">Jump to year</span>
+      <select id="year-jump"><option value="">Jump to year</option>{{YEAR_OPTIONS}}</select>
+    </label>
+  </div>
+  <p class="pub-count" id="pub-count" aria-live="polite"></p>
+
+  <div id="pub-groups">
+    {{PUBLICATIONS}}
+    <section class="year-group" id="pub-japanese" data-group="japanese">
+      <h3 class="year-head">Papers in Japanese <span class="year-head-ja" lang="ja">日本語論文</span></h3>
+      <ol class="pub-list">{{JAPANESE}}</ol>
+    </section>
+    <section class="year-group" id="pub-books" data-group="book">
+      <h3 class="year-head">Books and chapters</h3>
+      <ol class="pub-list">{{BOOKS}}</ol>
+    </section>
+  </div>
+  <p class="pub-empty" id="pub-empty" hidden>No publications match this search. Try an author's family name, a journal or a year.</p>
+</section>
+
+<!-- ================= CV ================= -->
+<section id="cv" class="view wrap prose-page" data-view="cv" aria-labelledby="cv-title">
+  <div class="page-head">
+    <div class="head-photos" aria-hidden="true"><img class="hp hp-1" src="{{IMG:portrait}}" alt="" loading="lazy" data-fallback><img class="hp hp-2" src="{{IMG:lab-4}}" data-alt="{{IMG:x-islands}}" alt="" loading="lazy" data-fallback></div><h2 id="cv-title" class="page-title">Curriculum vitae</h2></div>
+
+  <h3>Education</h3>
+  <ol class="timeline">
+    <li><span class="when">2005</span>Ph.D., Graduate School of Life Sciences, Tohoku University, Japan</li>
+    <li><span class="when">2002</span>M.S., Biological Institute, Graduate School of Sciences, Tohoku University, Japan</li>
+    <li><span class="when">2000</span>B.S., College of Integrated Arts and Sciences, Osaka Prefecture University, Japan</li>
+  </ol>
+
+  <h3>Professional research positions</h3>
+  <ol class="timeline">
+    <li><span class="when">2022–</span>Professor, Graduate School of Informatics, Kyoto University, Japan</li>
+    <li><span class="when">2021–2022</span>Associate Professor, Graduate School of Information Science, University of Hyogo, Japan</li>
+    <li><span class="when">2015–2020</span>Associate Professor, Graduate School of Simulation Studies, University of Hyogo, Japan</li>
+    <li><span class="when">2011–2015</span>Tenure-track Lecturer, Institute for Sustainable Sciences and Development, Hiroshima University, Japan</li>
+    <li><span class="when">2008–2011</span>JSPS Postdoctoral Research Fellow for Research Abroad, Institute for Chemistry and Biology of the Marine Environment, Carl von Ossietzky University Oldenburg, Germany</li>
+    <li><span class="when">2006–2007</span>Visiting Scholar, School of Aquatic and Fishery Sciences, University of Washington, USA</li>
+    <li><span class="when">2005–2008</span>JSPS Postdoctoral Research Fellow (PD), Faculty of Agriculture, Ehime University, Japan</li>
+  </ol>
+
+  <h3>Awards</h3>
+  <ol class="timeline">
+    <li><span class="when">2025</span>The 23rd Biwako Prize for Ecology (Jun. 2025)</li>
+    <li><span class="when">2023</span>PLOS ONE Long Service Award, PLOS (Feb. 2023)</li>
+    <li><span class="when">2022</span>The 39th Research Award of the Murao Educational Foundation (Mar. 2022)</li>
+    <li><span class="when">2021</span>The Best Research Activity Award 2021, University of Hyogo (Aug. 2021)</li>
+    <li><span class="when">2021</span>Deep Life Paper Awards 2020, International Center for Deep Life Investigation (Mar. 2021), for Hoshino, Doi et al. (2020)</li>
+    <li><span class="when">2020</span>The Special Research Activity Award 2020, University of Hyogo (Oct. 2020)</li>
+    <li><span class="when">2018</span>Kurita Water and Environment Foundation Research Award (Aug. 2018)</li>
+    <li><span class="when">2016</span>The Best Design Award for the Society Logotype, The Japanese Society of Limnology (Nov. 2016)</li>
+    <li><span class="when">2014</span>The 16th Shinkichi Yoshimura Award, The Japanese Society of Limnology (Sep. 2014)</li>
+    <li><span class="when">2012</span>The 12th Ecological Research Award (Mar. 2012), as co-author</li>
+    <li><span class="when">2011</span>Shinshu Field Science Award 2011 (Nov. 2011)</li>
+    <li><span class="when">2010</span>The 14th Denzaburo Miyadi Award, Ecological Society of Japan (Mar. 2010)</li>
+    <li><span class="when">2007</span>The Best Poster Presentation Award, 54th meeting of the Ecological Society of Japan (Mar. 2007)</li>
+    <li><span class="when">2006</span>The Excellent Poster Presentation Award, 10th meeting of the Ecology and Civil Engineering Society (Sep. 2006)</li>
+    <li><span class="when">2006</span>The Excellent Poster Presentation Award, 71st meeting of the Japanese Society of Limnology (Sep. 2006)</li>
+    <li><span class="when">2005</span>The Excellent Poster Presentation Award, 2nd Japan-Korea Joint Symposium on Limnology (Sep. 2005)</li>
+    <li><span class="when">2005</span>Graduate School of Life Sciences President Prize (Mar. 2005)</li>
+    <li><span class="when">2005</span>Aoba Society for the Promotion of Science Prize (Mar. 2005)</li>
+    <li><span class="when">2004</span>Student Travel Award, North American Benthological Society 52nd Annual Meeting (Jun. 2004)</li>
+    <li><span class="when">2004</span>Student Presentation Award, 1st Korea-Japan Joint Symposium on Limnology (May 2004)</li>
+    <li><span class="when">2002</span>Radioisotopes Journal Award (Jun. 2002)</li>
+  </ol>
+
+  <h3>Editorial responsibilities</h3>
+  <ul class="plain-list">
+    <li><em>Limnology</em>: Editor-in-Chief 2025–2027; Associate editor 2011–2016, 2023–2025</li>
+    <li><em>Ecology Letters</em>: Associate editor, 2024–present</li>
+    <li><em>Landscape and Ecological Engineering</em>: Associate editor, 2024–present</li>
+    <li><em>Oikos</em>: Associate editor, 2022–present</li>
+    <li><em>Ecology</em>: Associate editor, 2021–present</li>
+    <li><em>Ecological Monographs</em>: Associate editor, 2021–present</li>
+    <li><em>Japanese Journal of Limnology</em>: Associate editor, 2021–present</li>
+    <li><em>Aquatic Sciences</em>: Associate editor, 2020–present</li>
+    <li><em>Frontiers in Ecology and Evolution</em>: Associate editor, 2020–present</li>
+    <li><em>Frontiers in Environmental Science</em>: Associate editor, 2020–present</li>
+    <li><em>PLOS ONE</em>: Associate editor, 2016–present</li>
+    <li><em>Journal of Security and Sustainability Issues</em>: International Editorial Board, 2013–present</li>
+    <li><em>The Open Ecology Journal</em>: Associate editor, 2008–2011</li>
+  </ul>
+
+  <h3>Professional memberships</h3>
+  <p>The Ecological Society of America (ESA); Association for the Sciences of Limnology and Oceanography (ASLO); Ecological Society of Japan (ESJ); The Japanese Society of Limnology (JSL); Ecology and Civil Engineering Society (ECES); The eDNA Society</p>
+
+  <details class="more-list">
+    <summary>Manuscript reviewer for</summary>
+    <p><em>Advances in Meteorology, African Journal of Microbiology Research, American Journal of Botany, Analytical Chemistry, Animals, Applied and Environmental Microbiology, Aquatic Botany, Aquatic Conservation: Marine and Freshwater Ecosystems, Aquatic Sciences, Asian Journal of Environment and Ecology, Biodiversity and Conservation, Biogeosciences, Biological Conservation, Biological Invasions, Biology Letters, Biology Methods and Protocols, BMC Ecology, Canadian Journal of Fisheries and Aquatic Sciences, Cancer Medicine, Chemical Geology, Communications Biology, Conservation Genetics, Current Metabolomics, Ecography, Ecological Applications, Ecological Genetics and Genomics, Ecological Indicators, Ecological Research, Ecology, Ecology and Civil Engineering, Ecology and Evolution, Ecology Letters, Ecology of Freshwater Fish, Ecosphere, Environmental Biology of Fishes, Environmental DNA, Environment International, Environmental Science &amp; Technology, Estuarine Coastal and Shelf Science, Fisheries Science, Freshwater Biology, Frontiers in Ecology and Evolution, Frontiers in Environmental Science, Frontiers in Sustainable Food Systems, Functional Ecology, Genome, Global Change Biology, Global Ecology and Biogeography, Hydrobiologia, Ichthyological Research, International Journal of Climatology, International Journal of Molecular Sciences, International Journal of Zoology, IEEE Transactions on Systems, Man and Cybernetics: Systems, International Review of Hydrobiology, Insect Conservation and Diversity, Isotopes in Environmental and Health Studies, Japanese Journal of Conservation Ecology, Japanese Journal of Ecology, Japanese Journal of Limnology, Journal of Advanced Research, Journal of Animal Ecology, Journal of Applied Ecology, Journal of Ecology, Journal of Environmental Management, Journal of Experimental Marine Biology and Ecology, Journal of Japan Society on Water Environment, Journal of Marine Biology, Journal of Oceanography, Journal of Ornithology, Journal of Plant Research, Journal of Sea Research, Journal of Sustainable Development, Journal of Virological Methods, Korean Journal of Limnology, Knowledge and Management of Aquatic Ecosystems, Land Degradation and Development, Landscape and Ecological Engineering, Limnology, Limnology and Oceanography, Limnology and Oceanography Methods, Marine and Freshwater Research, Marine Biodiversity, Marine Ecology Progress Series, Marine Pollution Bulletin, Metabarcoding and Metagenomics, Methods in Ecology and Evolution, Microbes and Environments, Microbial Ecology, Molecular Ecology Resources, Nature Climate Change, Nature Ecology and Evolution, North American Journal of Fisheries Management, Oecologia, Oikos, Parasitology, Philosophical Transactions of the Royal Society B, Plankton and Benthos Research, PLOS ONE, Polar Biology, Population Ecology, Proceedings of the Royal Society B, Rapid Communications in Mass Spectrometry, Science of the Total Environment, Scientific Data, Sustainable Water Resources Management, The Open Ecology Journal, Transactions of the American Fisheries Society, Tree Physiology, Water, Wellcome Open Research, Wetlands, Wildlife Research, Zoological Letters, Zoological Studies</em></p>
+  </details>
+  <details class="more-list">
+    <summary>Grant proposal reviewer for</summary>
+    <p>Czech Science Foundation (CSF, Czech Republic), Deutsche Forschungsgemeinschaft (DFG, Germany), Israel Science Foundation (ISF), Marsden Fund of Royal Society of New Zealand, Natural Environment Research Council of the UK (NERC), National Science Centre (NCN, Poland), National Science Foundation (NSF, USA), Netherlands Organization for Scientific Research (NWO, Netherlands), Research Grants Council of Hong Kong, Research and Development (CRD) of The Education University of Hong Kong, Swiss National Science Foundation (SNSF)</p>
+  </details>
+</section>
+
+</main>
+
+<footer class="site-foot" id="contact">
+  <div class="wrap foot-grid">
+    <section aria-labelledby="contact-title">
+      <h2 id="contact-title" class="foot-title">Contact</h2>
+      <p><strong>Hide Doi</strong> (Hideyuki Doi)<br>Biosphere Informatics Lab., Graduate School of Informatics<br>Kyoto University<br>Yoshida-honmachi, Sakyo-ku, Kyoto 606-8501, Japan</p>
+      <p lang="ja">土居 秀幸<br>〒606-8501 京都市左京区吉田本町<br>京都大学大学院 情報学研究科 生物圏情報学講座</p>
+      <p class="foot-email">hideyuki.doi (at) icloud.com</p>
+    </section>
+    <section aria-labelledby="links-title">
+      <h2 id="links-title" class="foot-title">Links</h2>
+      <ul class="foot-links">
+        <li><a href="https://orcid.org/0000-0002-2701-3982">ORCID</a></li>
+        <li><a href="https://researchmap.jp/hideyuki.doi">researchmap</a></li>
+        <li><a href="https://x.com/Doi_Lab">X (@Doi_Lab)</a></li>
+        <li><a href="https://bsky.app/profile/doi-lab.bsky.social">Bluesky (@doi-lab.bsky.social)</a></li>
+        <li><a href="https://bre.soc.i.kyoto-u.ac.jp">Biosphere Informatics Lab. (Kyoto University)</a></li>
+        <li><a href="https://www.i.kyoto-u.ac.jp/admission.html" lang="ja">情報学研究科 入試情報</a></li>
+      </ul>
+    </section>
+    <section aria-labelledby="quick-title">
+      <h2 id="quick-title" class="foot-title">Pages</h2>
+      <ul class="foot-links">
+        <li><a href="#home">Home</a></li><li><a href="#research">Research</a></li><li><a href="#lab" lang="ja">研究室紹介</a></li>
+        <li><a href="#members">Members</a></li><li><a href="#publications">Publications</a></li><li><a href="#cv">CV</a></li>
+      </ul>
+    </section>
+  </div>
+  <div class="wrap foot-bottom"><img class="foot-logo" src="{{IMG:logo}}" alt="Kyoto University Biosphere Informatics Lab." width="600" height="280" loading="lazy" data-fallback><p class="copyright">&copy; {{YEAR}} Hideyuki Doi</p></div>
+</footer>
+
+<script>{{SCRIPT}}</script>
+</body>
+</html>
