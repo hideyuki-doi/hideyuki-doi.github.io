@@ -36,13 +36,13 @@ nav a[href="#contact"]:hover { color: var(--on-accent); filter: brightness(1.08)
 .hero-fullname { margin: .6rem 0 0; font: 500 1.05rem/1.4 var(--body); color: #bfe6e4; letter-spacing: .02em; }
 .hero-fullname span { margin-left: .6rem; letter-spacing: .2em; }
 .hero-bio { margin: 0 0 .75rem; color: #f0f8f8; max-width: 52ch; line-height: 1.75; }
-.hero-bio-ja { margin: 0 0 1.75rem; color: #cfeae8; max-width: 52ch; font-size: .92rem; line-height: 1.9; }
+.hero-bio-ja { margin: 0 0 1.75rem; color: #cfeae8; max-width: 28em; font-size: 1.1em; line-height: 1.9; }
 .hero-links { list-style: none; margin: .5rem 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; font-size: .92rem; }
 .hero-links a { color: #bfe6e4; }
 .hero-links a:hover { color: #ffffff; }
 .lab-name { margin: 0; font: 800 clamp(2.4rem, 4.5vw, 3.8rem)/1.05 var(--display); letter-spacing: -.02em; color: #ffffff; }
 .hero-affil { margin: 1rem 0 1.5rem; color: #e1f2f1; font-size: clamp(1rem, .6vw + .85rem, 1.25rem); line-height: 1.7; }
-.hero-affil span { display: block; font-size: .85em; color: #bfe6e4; }
+.hero-affil span { display: block; font-size: 1em; color: #bfe6e4; word-break: keep-all; } /* break only at the spaces between 大学院 / 研究科 / 講座 */
 .btn { display: inline-block; padding: .75rem 1.5rem; border-radius: 999px; background: #ffffff; color: var(--deep); font-weight: 700; text-decoration: none; margin: 0 .5rem .5rem 0; }
 .btn:hover { filter: brightness(1.1); }
 .btn-ghost { background: transparent; color: #ffffff; box-shadow: inset 0 0 0 2px #ffffff; }
@@ -97,7 +97,7 @@ nav a[href="#contact"]:hover { color: var(--on-accent); filter: brightness(1.08)
 .hero-text { text-shadow: 0 1px 3px rgba(4, 30, 31, .55); }
 @media (max-width: 899px) { .hero { background-size: 1100px auto; background-position: center top; } }
 .hero-name { margin: 0; font: 700 clamp(1.9rem, 3vw + .6rem, 2.8rem)/1.2 var(--display); color: #ffffff; letter-spacing: -.01em; }
-.hero-name span { display: inline-block; margin-left: .5em; font-size: .78em; font-weight: 500; letter-spacing: .18em; color: #bfe6e4; }
+.hero-name span { display: inline-block; margin-left: .5em; font: 700 .72em/1.2 var(--body); letter-spacing: .08em; color: #bfe6e4; }
 .hero-text .btn { text-shadow: none; }
 /* big logo at the top of the page, compact once the reader scrolls */
 .site-head, .brand-logo, .brand-text, .brand-sub { transition: all .2s ease; }
