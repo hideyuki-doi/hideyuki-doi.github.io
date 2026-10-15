@@ -2,6 +2,15 @@
  "orcid": "0000-0002-2701-3982",
  "publications": [
   {
+   "id": "218",
+   "year": 2026,
+   "type": "article",
+   "html": "Hirotaka Tajima, Hideaki Nishizawa, Manabu Kume, Junichi Okuyama, Hiromichi Mitamura, and <strong>Hideyuki Doi</strong> (2026) Interspecific Differences in the Origin of Assimilated Diet Among Three Omnivorous Ghost Crab Species on Resource-Limited Sandy Beach Based on Carbon and Nitrogen Stable Isotope Analysis. <em>Estuaries and Coasts</em> 49:186.",
+   "doi": "10.1007/s12237-026-01799-y",
+   "source": "auto",
+   "added": "2026-10-15"
+  },
+  {
    "id": "217",
    "year": 2026,
    "type": "article",
@@ -10,7 +19,8 @@
     "Data: <a href=\"https://doi.org/10.5281/zenodo.22092638\">https://doi.org/10.5281/zenodo.22092638</a>"
    ],
    "source": "manual",
-   "added": "2026-10-15"
+   "added": "2026-10-15",
+   "doi": "10.1038/s41597-026-08246-4"
   },
   {
    "id": "216",
@@ -35,7 +45,7 @@
    "id": "214",
    "year": 2026,
    "type": "article",
-   "html": "<strong>Hideyuki Doi</strong> (2026) Urban stressors disrupt the phenological clock, unravelling urban ecosystems and services. <em>npj Urban Sustainability</em> online available.",
+   "html": "<strong>Hideyuki Doi</strong> (2026) Urban stressors disrupt the phenological clock, unravelling urban ecosystems and services. <em>npj Urban Sustainability</em> 6:122.",
    "source": "jimdo",
    "doi": "10.1038/s42949-026-00406-0"
   },
@@ -43,7 +53,7 @@
    "id": "213",
    "year": 2026,
    "type": "article",
-   "html": "Yurika Oba, and <strong>Hideyuki Doi</strong> (2026) Macroecological assessment of invasive species impact on Japanese lake fish communities using eDNA metabarcoding. <em>Scientific Reports</em> online available.",
+   "html": "Yurika Oba, and <strong>Hideyuki Doi</strong> (2026) Macroecological assessment of invasive species impact on Japanese lake fish communities using eDNA metabarcoding. <em>Scientific Reports</em> 16:20890.",
    "doi": "10.1038/s41598-026-46585-9",
    "source": "jimdo"
   },
@@ -75,7 +85,7 @@
    "id": "209",
    "year": 2026,
    "type": "article",
-   "html": "Maiko Kagami, Shunsuke Matsuoka, Manabu Mochizuki, Kensuke Seto, <strong>Hideyuki Doi</strong>, Chihiro Yoshimura, Tomonori Osugi, Hidetaka Ichiyanagi &amp; Jotaro Urabe (2026) Chytrids are everywhere: diatom-parasitic chytrids dominate pelagic fungal communities across 50 reservoirs. <em>Landscape and Ecological Engineering</em> online available.",
+   "html": "Maiko Kagami, Shunsuke Matsuoka, Manabu Mochizuki, Kensuke Seto, <strong>Hideyuki Doi</strong>, Chihiro Yoshimura, Tomonori Osugi, Hidetaka Ichiyanagi &amp; Jotaro Urabe (2026) Chytrids are everywhere: diatom-parasitic chytrids dominate pelagic fungal communities across 50 reservoirs. <em>Landscape and Ecological Engineering</em> 22:335-347.",
    "doi": "10.1007/s11355-026-00715-7",
    "source": "jimdo"
   },
