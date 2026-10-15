@@ -32,7 +32,8 @@ nav a[href="#contact"]:hover { color: var(--on-accent); filter: brightness(1.08)
 .node-net { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
 .node-photo { position: absolute; border-radius: 50%; object-fit: cover; border: 4px solid #9fe3e0; background: #0b2f30; }
 .node-main { border-width: 6px; box-shadow: 0 0 0 12px rgba(159, 227, 224, .18); object-position: 45% 18%; }
-@media (max-width: 899px) { .hero-node { order: -1; width: min(88%, 360px); justify-self: center; } }
+/* phones: a smaller photo cluster set to the right, so the name below reads first */
+@media (max-width: 899px) { .hero-node { order: -1; width: min(62%, 250px); justify-self: end; } }
 .hero-fullname { margin: .6rem 0 0; font: 500 1.05rem/1.4 var(--body); color: #bfe6e4; letter-spacing: .02em; }
 .hero-fullname span { margin-left: .6rem; letter-spacing: .2em; }
 .hero-bio { margin: 0 0 .75rem; color: #f0f8f8; max-width: 52ch; line-height: 1.75; }
