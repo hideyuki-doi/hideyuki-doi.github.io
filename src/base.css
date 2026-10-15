@@ -87,7 +87,7 @@ nav a[aria-current="page"] { color: var(--link); box-shadow: inset 0 -2px 0 var(
 
 /* research */
 .lang-switch, .type-filter { display: inline-flex; border: 1px solid var(--rule); border-radius: 999px; padding: 3px; gap: 2px; }
-.lang-switch button, .type-filter button { font: inherit; font-size: .88rem; border: 0; background: none; color: var(--ink); padding: .3rem .9rem; border-radius: 999px; cursor: pointer; }
+.lang-switch button, .type-filter button { font: inherit; white-space: nowrap; font-size: .88rem; border: 0; background: none; color: var(--ink); padding: .3rem .9rem; border-radius: 999px; cursor: pointer; }
 .lang-switch button[aria-pressed="true"], .type-filter button[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); }
 .js [data-lang] { display: none; }
 .js .lang-en [data-lang="en"], .js .lang-ja [data-lang="ja"] { display: block; }
