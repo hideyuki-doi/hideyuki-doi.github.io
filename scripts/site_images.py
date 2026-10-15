@@ -16,7 +16,7 @@ IMAGES = {
     "x-lake": ("x-lake.jpg", []),      # from the @Doi_Lab X header
     "x-islands": ("x-islands.jpg", []),  # from the @Doi_Lab X profile
     "photo-lake": ("photo-lake.jpg", []),
-    "photo-mangrove": ("photo-mangrove.jpg", []),
+    "photo-tidalflat": ("photo-tidalflat.jpg", []),
     "photo-server": ("photo-server.jpg", []),
     "photo-flasks": ("photo-flasks.jpg", []),
     "photo-sunset": ("photo-sunset.jpg", []),
