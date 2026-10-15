@@ -44,7 +44,7 @@ def get(url: str, accept: str = "application/json", tries: int = 3):
 
 
 def norm(s: str) -> str:
-    s = html.unescape(re.sub(r"<[^>]+>", "", s))
+    s = html.unescape(html.unescape(re.sub(r"<[^>]+>", "", s)))  # Crossref は &amp;quot; のような二重エスケープがある
     return re.sub(r"[^a-z0-9]", "", s.lower())
 
 
@@ -54,7 +54,9 @@ def check_doi(p: dict) -> tuple[str, str, str]:
     if code == 200:
         title = (json.loads(body)["message"].get("title") or [""])[0]
         t = norm(title)
-        if t and (t in norm(p["html"]) or t[:40] in norm(p["html"])):
+        if not t:  # 学会記録などの一括 DOI は Crossref にタイトルがない
+            return "OK (no title in Crossref)", p["id"], doi
+        if t in norm(p["html"]) or t[:40] in norm(p["html"]):
             return "OK", p["id"], doi
         return "TITLE MISMATCH", p["id"], f"{doi} -> Crossref title: {re.sub('<[^>]+>', '', title)[:120]}"
     # Crossref 以外（JaLC など）に登録された DOI は doi.org で存在確認
