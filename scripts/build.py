@@ -82,7 +82,10 @@ def render_pub(p: dict, remote: bool, compact: bool = False) -> str:
         f'<p class="pub-cite">{p["html"]}</p>'
         + (f'<p class="pub-meta">{" ".join(meta)}</p>' if meta else "")
         + (f'<ul class="pub-notes">{notes}</ul>' if notes else "")
-        + img + "</div></li>"
+        + img
+        # 「大規模データ解析の論文」などのボタン用：タグを検索語として見えない形で埋め込む
+        + "".join(f'<span class="visually-hidden" aria-hidden="true"> tag-{t}</span>' for t in p.get("tags", []))
+        + "</div></li>"
     )
 
 

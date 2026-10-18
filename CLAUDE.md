@@ -13,6 +13,7 @@ do not call it "Hideyuki Doi Lab", "Hide Doi Lab" or 土居研究室.
 - `data/publications.json` – all publications. `type`: `article` (numbered 1..N by date), `japanese` (Japanese-language papers, J1..Jn, listed separately), `book`.
   `html` holds the citation: `<strong>Hideyuki Doi</strong>` bold, `<em>` for journals/species, `<sup>*</sup>` corresponding author, `†` equal contribution; add a matching note in `notes`.
   Titles in sentence case (only first word and proper nouns capitalised). DOIs shown as https://doi.org/… links.
+  Optional `tags` (e.g. `["bigdata"]`): a Research "papers on …" button with `data-q="tag-bigdata"` lists every paper with that tag; add the tag to new papers that belong there.
 - `data/add_dois.txt` – DOIs to add on the next build; `data/exclude_dois.txt` – DOIs never to add. No preprints.
 - `assets/img/` – images. Lab photos `lab-1..4` (imported from the old Jimdo site) are used only as header circles on Members / Publications / CV; the 研究室紹介 page has no photo gallery.
 - `scripts/build.py` – builds `_site/`; `scripts/update_publications.py` – adds new papers from ORCID/Crossref; `scripts/check_links.py` – checks every DOI and image.
