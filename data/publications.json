@@ -2,15 +2,6 @@
  "orcid": "0000-0002-2701-3982",
  "publications": [
   {
-   "id": "J9",
-   "year": 2026,
-   "type": "japanese",
-   "html": "Naoko Hara, Takashi Tashiro, <strong>Hideyuki Doi</strong>, Yasuhiro Takemon, and Izumi Katano (2026) Comparison of dominance structure and attenuation function of drifting organic matter among filter feeders with different filtering modes: eDNA-based assessment in dam tailwaters. <em>Ecology and Civil Engineering</em> online available (in Japanese).",
-   "doi": "10.3825/ece.25-00037",
-   "source": "auto",
-   "added": "2026-11-04"
-  },
-  {
    "id": "223",
    "year": 2026,
    "type": "article",
@@ -2113,6 +2104,15 @@
     "Awarded Radioisotopes Journal award"
    ],
    "source": "jimdo"
+  },
+  {
+   "id": "J9",
+   "year": 2026,
+   "type": "japanese",
+   "html": "Naoko Hara, Takashi Tashiro, <strong>Hideyuki Doi</strong>, Yasuhiro Takemon, and Izumi Katano (2026) Comparison of dominance structure and attenuation function of drifting organic matter among filter feeders with different filtering modes: eDNA-based assessment in dam tailwaters. <em>Ecology and Civil Engineering</em> online available (in Japanese).",
+   "doi": "10.3825/ece.25-00037",
+   "source": "auto",
+   "added": "2026-11-04"
   },
   {
    "id": "J8",
