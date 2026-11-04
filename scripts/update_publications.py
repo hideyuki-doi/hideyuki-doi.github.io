@@ -213,6 +213,7 @@ def main() -> int:
             next_id += 1
             pubs.append(e)
             added.append(e)
+            have_title[e["id"]] = norm_text(e["html"])  # 同じ実行で複数追加しても照合できるように
         have_doi.add(doi)
 
     # DOI はあるが巻号がまだの論文を更新
