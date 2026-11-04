@@ -2,6 +2,15 @@
  "orcid": "0000-0002-2701-3982",
  "publications": [
   {
+   "id": "219",
+   "year": 2026,
+   "type": "article",
+   "html": "Takeshi Osawa, Narumasa Tsutsumida, and <strong>Hideyuki Doi</strong> (2026) Satellite-based total suspended matter as an indicator of coastal surface blue-carbon distribution: a case study of two bays in Japan. <em>Environmental Advances</em> 25:100747.",
+   "doi": "10.1016/j.envadv.2026.100747",
+   "source": "auto",
+   "added": "2026-11-04"
+  },
+  {
    "id": "218",
    "year": 2026,
    "type": "article",
