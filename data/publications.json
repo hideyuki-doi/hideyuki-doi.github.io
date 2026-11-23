@@ -2,6 +2,15 @@
  "orcid": "0000-0002-2701-3982",
  "publications": [
   {
+   "id": "224",
+   "year": 2026,
+   "type": "article",
+   "html": "<strong>Hideyuki Doi</strong>, Hidetaka Ichiyanagi, and Jotaro Urabe (2026) Data-driven typology of Japanese dam reservoirs: a machine learning approach. <em>Landscape and Ecological Engineering</em> online available.",
+   "doi": "10.1007/s11355-026-00776-8",
+   "source": "auto",
+   "added": "2026-11-23"
+  },
+  {
    "id": "223",
    "year": 2026,
    "type": "article",
